@@ -1,0 +1,395 @@
+numerical: 53
+calculate: 53
+angle between: 53
+annealing twins: 47
+deformation twins
+electrical conductivity: 25
+electrical conduction: 25
+electric field: 25
+ohm's: 25
+ ohm : 25
+electronic conduction: 25
+ionic conduction: 25
+energy band: 25
+electron mobility: 25
+electrical resistivity: 25
+intrinsic: 25
+extrinsic: 25
+semi-conductor: 25
+semiconductor: 25
+electron: 25
+ hole : 25
+mobility: 25
+hole mobility: 25
+transistor: 25
+n-type: 25
+p-type: 25
+diode: 25
+mosfet: 25
+solenoid: 25
+electromagnet: 25
+magnetic: 26
+susceptibility: 26
+spin-glass-like: 26
+magnetism: 26
+remanence: 26
+coercivity: 26
+permeability: 26
+magnetizing: 26
+magnetocaloric: 26
+superconductor: 26
+magnet: 26
+superconductivity: 26
+curie: 26
+neel temperature: 26
+zone theory: 27
+dry pressing: 28
+dry milling: 28
+granulation: 28
+wet milling: 28
+spray drying: 28
+pva: 28
+ peg : 28
+polyvinyl alcohol: 28
+polyethylene glycol: 28
+isostatic pressing: 28
+extrusion: 28
+extruder: 28
+pmma: 28
+pvb: 28
+polyox: 28
+conductive drying: 28
+critical drying point: 28
+injection moulding: 28
+sintering: 28
+sintered: 28
+refractory: 28
+refractories: 28
+polymer: 29
+hydrocarbon: 29
+molecular weight: 29
+molecular shape: 29
+molecular structure: 29
+pvc: 29
+nylon: 29
+vulcanization: 29
+degree of polymerization: 29
+copolymer: 29
+thermoplastic: 29
+thermosetting: 29
+ cure : 29
+epoxy: 29
+polyster: 29
+phenolic: 29
+polymerization: 29
+chain growth: 29
+chain-growth: 29
+step growth: 29
+step-growth: 29
+ziegler: 29
+elastomers: 29
+composite: 29
+nano-:29
+cermet: 29
+random fibre: 29
+continuous fibre: 29
+ reinforcement : 29
+metal matrix: 29
+pmc: 29
+mmc: 29
+cmc: 29
+pmc: 29
+syndiotactic: 29
+monomer: 29
+super alloy: 30
+superalloy: 30
+super-alloy: 30
+td nickel: 30
+thoria dispersed nickel: 30
+nickel-based alloy: 30
+ni-bbased alloy: 30
+ni-based super alloy: 30
+ni-based super-alloy: 30
+hastelloy x: 30
+carbide former: 30
+ceramic bond: 31
+silicate ceramic: 31
+devitrification: 31
+carbon: 31
+synthetic diamond: 31
+graphite: 31
+silicate: 31
+fullerene: 31
+bucky-ball: 31
+application of ceramic: 40
+glass transition temperature: 40
+critical cooling rate: 40
+critical-cooling-rate: 40
+Tg : 40
+heat capacity: 33
+temperature scale: 33
+latent heat: 33
+thermal expansion: 33
+thermal conductivity: 33
+thermal conductor: 33
+thermal diffusivity: 33
+thermal transformer: 33
+thermal stress: 33
+thermal sensor: 33
+heat flux: 33
+radiation: 33
+mass flow: 33
+heat transfer: 33
+r-value: 33
+r value: 33
+fourier: 33
+heat conduction: 33
+impact: 34
+charpy: 34
+izod: 34
+tensile strength: 35
+yield strength: 35
+elastic: 35
+plastic: 35
+viscoelastic: 35
+creep: 35
+stress relaxation: 35
+engineering stress: 35
+engineering strain: 35
+shear stress: 35
+shear force: 35
+poisson: 35
+young's modulus: 35
+young modulus: 35
+compliance of the material: 35
+yield point: 35
+elongation: 35
+resilience: 35
+true stress: 35
+true strain: 35
+deformation: 35
+anelastic: 35
+stress relaxation: 35
+peierls: 35
+nabarro: 35
+breaking stress: 35
+fatigue: 36
+endurance: 36
+repeated stress: 36
+cyclic stress: 36
+catastrophic rupture: 36
+fatigue crack: 36
+striations: 36
+clamshell: 36
+stress ratio: 36
+amplitude ratio: 36
+stress cycle: 36
+hardness: 37
+hardened steel: 37
+tungsten carbide: 37
+knoop: 37
+vickers: 37
+shore scleroscope: 37
+indenter: 37
+brinell: 37
+rockwell: 37
+s-n curve: 37
+s n curve: 37
+fracture: 38
+griffith: 38
+toughness: 38
+crack: 38
+cleavage plane: 38
+dimple: 38
+chevron: 38
+track propagation: 38
+necking: 38
+creep: 39
+larson miller: 39
+larson-miller: 39
+phase composition: 40
+phase amount: 40
+phase equilibrium: 40
+non equilibrium: 41
+cored structure: 41
+mono component: 42
+mono-component: 42
+single component: 42
+gibbs phase rule: 42
+gibb's: 42
+degree of freedom: 42
+triple point: 42
+invariant point: 42
+invariant reaction: 42
+two-component: 42
+two component: 42
+isomorphous system: 42
+binary system: 42
+Cu Ni system: 42
+liquidus point: 42
+solidus line: 42
+lever rule: 42
+binary phase diagram: 43
+austenitic: 43
+ttt: 43
+time temperature transformation: 43
+time-temperature-transformation: 43
+cct: 43
+constant cooling temperature: 43
+constant-cooling-temperature: 43
+fe3c: 43
+Pb-Sn: 43
+Ag-Pt: 43
+MgO-Al2O3: 43
+copper-nickel: 43
+Cu-Ni: 43
+fe-: 43
+equilibrium diagram: 43
+Eutectoid: 54
+Hypoeutectoid: 54
+Hypereutectoid: 54
+Eutectic: 54
+peritectic: 54
+peritectoid: 54
+monotectic: 54
+austenite: 54
+ferrite: 54
+cementite: 54
+pearlite: 54
+martensitic: 54
+proeutectoid: 54
+bainite: 54
+ferrite: 54
+phase diagram: 43
+edge dislocation: 44
+screw dislocation: 44
+burger: 44
+burgers vector: 44
+mixed dislocation: 44
+diffusion: 45
+vacancy diffusion: 45
+interstitial diffusion: 45
+fick's law: 45
+kirkendall effect: 45
+crystal imperfection: 46
+crystal structure: 46
+miller: 46
+ bcc : 46
+ fcc : 46
+ hcp : 46
+packing efficiency: 46
+grain boundary: 47
+twin boundary: 47
+stacking fault: 47
+kink: 47
+adatom: 47
+twin boundaries: 47
+external surface: 47
+phase boundaries: 47
+phase boundary: 47
+zero-dimensional defect: 48
+point defect: 48
+vacancy defect: 48
+interstitialcy: 48
+intertitial defect: 48
+self-intertitial: 48
+vacancies: 48
+impurities in solid: 48
+substitutional: 48
+frenkel: 48
+schottky: 48
+hume rothery rule: 48
+hume-rothery rule: 48
+hardenability: 55
+Jominy: 55
+Annealing: 56
+Normalizing: 56
+Stress relieving: 56
+annealed: 56
+ageing: 57
+aging: 57
+Precipitation hardening: 57
+hardening heat treatment: 57
+Precipitation sequence: 57
+age hardening: 57
+age-hardening: 57
+particle hardening: 57
+Quench: 58
+surface hardening: 59
+Case hardening: 59
+induction hardening: 59
+flame hardening: 59
+Carburizing: 59
+Nitriding: 59
+Cyaniding: 59
+Carbonitriding: 59
+nitrocarburizing: 59
+Tempering: 60
+tempered: 60
+Embrittlement: 60
+Differential hardening: 61
+Flame hardening: 61
+Induction hardening: 61
+Case hardening: 61
+metallic material: 49
+polymeric material: 49
+ceramic material: 49
+composite material: 49
+electronic material: 49
+biomaterial: 49
+engineering material: 49
+grain size reduction: 50
+grain-size reduction: 50
+solid solution alloying: 50
+solid-solution alloying: 50
+strain hardening: 50
+precipitation hardening: 50
+solid-solution strengthening: 50
+strengthening metallic alloy: 50
+petch: 50
+strengthening metal: 50
+dislocation density: 50
+age hardening: 50
+chemical hardening: 50
+strain-hardening: 50
+dispersion hardening: 50
+orowan mechanism: 50
+age hardenable: 50
+hot working: 51
+cold working: 51
+cold worked: 52
+recovery: 51
+recrystallization: 51
+recrystallized: 51
+recrystallisation: 51
+re-crystallization: 51
+re-crystallisation: 51
+grain growth: 51
+grain coarsening: 51
+decarburization: 51
+hot-working: 51
+cold-working: 51
+slip: 52
+twinning: 52
+kink: 52
+grain boundary sliding: 52
+diffusion-induced atom migration: 52
+schmid's: 52
+schmid: 52
+critical resolved shear stress: 52
+frank reed: 52
+frank-reed: 52
+dislocation theory: 52
+full dislocation: 52
+partial dislocation: 52
+shockley: 52
+sessile dislocation: 52
+climb: 52
+cross slip: 52
+edge dislocation: 52
+bauschinger effect: 52
+lomer: 52
+cottrell: 52
+season cracking: 52
+corrosion cracking: 52
+ceramic: 49

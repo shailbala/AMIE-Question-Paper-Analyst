@@ -1,0 +1,173 @@
+fixed head: 24
+lexical: 20
+protocol: 11
+office: 10
+dba: 9
+storage: 17
+assembler: 20
+tcp: 11
+i\/o: 15
+logic gate: 18
+foreign key: 9
+call-by-reference: 1
+interpreter: 20
+ cpu: 16
+pointer: 1
+algebraic equation: 14
+cache: 16
+logic diagram: 18
+ smtp: 11
+terminal: 23
+program: 1
+flowchart: 4
+ alu: 16
+data entry: 11
+ wan: 11
+Decision Support System: 6
+input device: 15
+flow-chart: 4
+macro: 1
+compiler: 20
+information resource management: 8
+resource: 8
+flip flop: 18
+database management: 9
+ sram: 16
+decimal: 13
+ eprom: 17
+server: 11
+primary key: 9
+ normalized: 9
+ mime: 11
+business process: 8
+ normalization: 9
+kernel: 21
+generation: 12
+flow chart: 4
+conditional: 1
+operator: 1
+computer: 12
+MIS: 5
+ dos: 22
+ftp: 11
+ rom: 17
+network: 11
+command-line: 21
+decision: 6
+ms-dos: 22
+and gate: 18
+nand: 18
+business: 8
+sequential: 18
+ linux: 23
+sdlc: 7
+internet: 11
+email: 11
+Write a program in C: 1
+software development life cycle: 7
+assembly: 20
+ rdbms: 9
+processing: 16
+DSS: 6
+C\+\+: 1
+address: 24
+ dbms: 9
+access time: 17
+topology: 11
+convert: 13
+latch: 18
+high level: 20
+language: 1
+atm: 11
+ udp: 11
+addition: 13
+ prom: 17
+algo: 3
+circuit: 18
+ IO: 15
+ man: 11
+hexadecimal: 13
+processor: 16
+software: 19
+number system: 13
+ ram: 16
+Managament Information System: 5
+device: 18
+boolean: 14
+printf: 1
+cross talk: 11
+array: 1
+electronic data interchange: 11
+electronic: 11
+prove: 14
+union: 1
+bios: 21
+flip-flop: 18
+structure: 1
+statement: 1
+memory: 16
+function: 1
+shell: 23
+repeater: 11
+hub: 11
+telnet: 11
+overloading: 1
+ pan: 11
+hard disk: 17
+movable head: 24
+operating system: 21
+ lan: 11
+command line: 21
+iteration: 1
+Pascal: 2
+hdd: 17
+ sdd: 17
+eniac: 21
+ law: 14
+history: 12
+bridge: 11
+scanner: 15
+ip: 11
+linker: 20
+ base-: 13
+hardware: 18
+ client: 11
+ switch: 1
+address resolution: 1
+file: 24
+step by step process: 3
+ os: 21
+binary: 13
+conversion: 13
+recursive: 1
+ms dos: 22
+recursion: 1
+boot: 21
+ unix: 23
+input/output: 15
+octal: 13
+gate: 18
+call-by-value: 1
+parameter: 1
+virtual address: 24
+output device: 15
+input-output: 15
+automation: 10
+translator: 20
+information system: 5
+adder: 18
+or gate: 18
+variable: 1
+hexa-decimal: 13
+combinational circuit: 18
+logic circuit: 18
+algorithm: 3
+database: 9
+windows: 22
+data independence: 9
+ bus: 24
+logic-gate: 18
+ dram: 16
+physical address: 24
+subtraction: 13
+ C : 1
