@@ -1,0 +1,1399 @@
+SUMMER 2019
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Time: Three hours
+Maximum marks: 100
+Answer FIVE questions, taking ANY TWO from Group A,
+ANY TWO from Group B and ALL from Group C.
+All parts of a question (a, b, etc) should be answered at one place.
+Answer should be brief and to-the-point and be supplemented with neat sketches. Unnecessary long
+answers may result in loss of marks.
+Any missing data or wrong data may be assumed suitably
+Figures on right-hand side margin indicate full marks.
+Group A
+1. (a) What is design? Name the check list for engineering design problems.
+8
+(b) How design by evolution is different from routine design?
+8
+(c) How artificial intelligence can be used in designing a product?
+4
+2. (a) Explain the various methods of design communication.
+8
+(b) What is product life cycle? Illustrate with a suitable example, the various stages of product life cycle.
+8
+(c) Describe the process of brainstorming.
+4
+3. (a) with suitable diagrams briefly explain sand casting processes.
+8
+(b) Describe following type of sand :
+8
+(1) Loam Sand (2) Facing Sand (3) Backing sand (4) Parting sand.
+(c) Why riser are used in casting?
+4
+4. (a) What is rolling and types of rolling in metal working ? For which type of products the method is suitable.
+8
+(b) Explain progressive die and compound die with suitable diagram.
+8
+(c) What is the purpose of heat treatment of forging?
+4
+Group B
+5. (a) Differentiate between shaping , planning and slotting as regards to relative tool and work motions.
+8
+(b) The following data from the orthogonal cutting test is available:
+Rake angle = 10degree, chip thickness ratio = 0.35, uncut chip thickness = 0.51, width of cut = 3mm, yield shear stress of work material = 285 N/mm 2 , Mean friction Coefficient on tool face = 0.65. Determine cutting force, Normal force and Shear force on the tool.
+8
+(c) Following is the data available on cutting speed and too life. Determine the Taylors constant and tool life exponent.
+4
+(1) V = 150 m/min, T = 60 min
+(2) V = 200 m/min, T = 23 min
+6. (a) Describe different types of centre less grinding. For which type of product manufacturing they are quite suitable. Write down the limitation of the process.
+8
+(b) Compare and contrast electro-discharge machining and electrochemical machining processes.
+8
+(c) What process would you recommend to make many small holes in a very hard alloy when the holes will be used for cooling and venting?
+4
+7. (a) What is computer Aided process planning (CAPP)? How is it superior to manual Process planning? Explain.
+8
+(b) What are the guidelines to design for producibility in case of casting and forging?
+8
+(c) Describe the welding process commonly used to weld rail track with the aid of a neat diagram.
+4
+8. (a) Explain briefly with an example the OPTIZ classification system.
+8
+(b) Discuss the basic element of an industrial robot.
+8
+(c) What is cluster analysis?
+4
+Group C
+9. Answer the following :
+10x2
+(1) What is Organizational need?
+(2) What is concurrent engineering?
+(3) For what carbon dioxide casting are used for?
+(4) What is the effect of temperature in metal forming?
+(5) Define oblique cutting.
+(6) Honing is used for?
+(7) Carburizing flame are used for welding which type of materials?
+(8) Define AS & RS.
+(9) Function of dielectric in EDM.
+(10) Define Robust design.
+
+WINTER 2018
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+GROUP A
+1. (a) One chooses an idea of mechanical with electronic device for making a alarm clock for deaf People. Make a morphological analysis with a matrix.
+(6)
+(b) Differentiate between hot and cold working.
+(6)
+(c) What is upset forging? Show the different parts of the forging die punch set up.
+(8)
+2. (a) For the following product list the relevant quality parameters that go in the utility of the product. Assign weights to each of these parameters and construct a design tree to explore the physical realizability of the concept Solar water heater.
+(8)
+(b) With diagrams show the different types of gating systems
+(6)
+(c) Give the steps of investment casting process.
+(6)
+3. (a) Give the appropriate need statement and carry out the need analysis giving important specifications, standard of performance and constraints of the need: portable drinking water.
+(6)
+(b) With neat diagrams show four types of rolling mills.
+(8)
+(c) How collapsible tubes like toothpaste tubes can be manufactured by extrusion?
+(6)
+4. (a) Differentiate between forward and backward extrusion.
+(7)
+(b) Why standardization and size range are important for product design?
+(6)
+(c) What is the difference between blanking and punching? A hole of 20mm diameter is to be made on Copper sheet of 5mm thickness by punching. Calculate the diameter of punch and die if the clearance is 1mm.
+(7)
+GROUP B
+5. (a) With a neat diagram explain the process of metal removal in ECM.
+(8)
+(b) Differentiate with neat sketch between MIG and TIG welding
+(6)
+(c) Explain the different type of chip form in metal cutting. What is built-up-edge? How it is formed ?
+(6)
+6. (a) Differentiate between neutral flame and carburizing flames. With diagram show the forward and
+backward welding methods.
+(8)
+(b) What is the use of flux in welding? give some types of flux. Where flux is not used?
+(6)
+(c) With diagram show the working of an ultrasonic machining process.
+(6)
+7. (a) What do you understand by group technology? Describe briefly different types of GT system.
+(8)
+(b) With block diagram show the CAPP process.
+(6)
+(c) What is AS/RS? Describe different types of AS/RS used in industry.
+(6)
+8. (a) With neat sketch differentiate between shaping and planning operations.
+(6)
+(b) Classify the robots based on physical and geometrical attributes.
+(6)
+(c) Differentiate among NC, CNC, and DNC
+(8)
+Group C
+9. Answer in brief:
+10x2
+a.Differentiate between modular design and robust design
+b.How lead of the bolt is manufactured?
+c.Describe a welding process uses non consumable electrodes
+d.Give 4 type cutting tool materials
+e.With diagram show a cylindrical robot
+f.How a brainstorming session is done
+g.Draw a casting mould assembly before pouring and show the different parts
+h.Centreless grinding
+i.Write a typical tool signature of a single point cutting tool.
+j.Differentiate between brazing and soldering.
+
+SUMMER 2018
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Group A
+(1) (a) How the needs are identified? What is its role in the design process?
+(8M)
+(b)Make a comparative statement between , product design specification , Manufacturing specification and sales specification .
+(8M)
+(c) Explain the concept of design by evaluation with suitable example.
+(4M)
+(2) (a) Taking a suitable example, explain the steps of Design through Morphological analysis
+(8M)
+(b) Explain the concept of Design check for clarity, simplicity and safety with suitable diagrams and example.
+(8M)
+(c)Why planning of obsolescence product is an important step in product design? How it is being made
+(4M)
+(3) (a) How moulding sands are classified. Name the basic tests for moulding sands.
+(8M)
+(b) State the difference between permanent mould casting and sand casting. What are the common material used for permanent mould casting ?
+(8M)
+(c) What is the importance of pattern color code? Name some prominent pattern colour coding being used in foundry
+(4M)
+(4) (a) With suitable diagram write down the design guidelines for roll formed sections.
+(8M)
+(b) Describe the method which is used to produce fine wires. Can this method be used to produce tubes?
+(8M)
+(c) What is the purpose of heat treatment of forging?
+(4M)
+Group B
+(5) (a) In a orthogonal cutting operation, the following data have been observed: Uncut chip thickness = 0.127mm; width of cut = 6.35mm; cutting speed=2m/sec; rake angle = 10 degree ;cutting force =567 N; thrust force =227 N; Chip thickness = 0.228 mm. Determine the shear angle, the friction angle shear stress along shear plane, and the power for the cutting operation. Also find the chip velocity and shear strain
+(12M)
+(b) How is the chip formed in metal cutting ? Explain the terms “Shear plane” and “primary and secondary shear zone “.
+(8M)
+(6) (a) Make a comparative analysis of non-conventional machining process EDM, ECM, USM based on the Accuracy, maximum material removal rate, surface finish and production of Micro Holes.
+(8M)
+(b) Define solid state welding process . Briefly describe any three type of solid state welding you know.
+(8M)
+(c) Why “trueing” and “dressing” are necessary in grinding wheel? Describe a few methods of dressing an abrasive wheel.
+(4M)
+(7) (a) What do you understand by the term of group technology? Why it is so important in the present manufacturing scenario?
+(8M)
+(b) Define a robot? Describe the basic element of a robot.
+(8M)
+(c) Write down the advantages to be gained using automated guided vehicle in manufacturing shop.
+(4M)
+(8) (a) Describe the factors which affect the selection of manufacturing processes.
+(8M)
+(b) What are the basic elements of integrated manufacturing system?
+(8M)
+(c) Make a brief note on computer Aided Process Planning (CAPP).
+(4M)
+Group C
+(9) Answer all questions:
+(10x1)
+(i) How jobbing foundry is different from captive foundary
+(ii) Define the term “Product Design Customization”.
+(iii) What is perforating?
+(iv) What do you understand by the terms “Grit” and “ Grade” of a grinding wheels?
+(v) Define thermos compression bonding.
+(vi) What is DCLASS system?
+(vii) What is manufacturability?
+(viii) What is Buffing?
+(ix) How punching is different from blanking?
+(x) What is Brainstorming?
+
+Winter 2017
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Group A
+1. (a) What is standard of performance? What is its difference with standardization? Explain with example.
+6
+(b) Considering you are involving in design and development of a new wrist-watch give the appropriate need statement and carry out the need analysis, idea generation, giving important specifications, standard of performance and constraints.
+8
+(c) Explain the different type of design that can be followed for development. If one want to develop a new bicycle what type he will follow.
+6
+2. (a) What is morphological analysis? Why it is done? Show a morphological matrix for solar water heater.
+8
+(b) How the brainstorming session is carried out? Describe its advantages and disadvantages.
+6
+(c) What is modular design? Describe its differences with robust design.
+6
+3. (a) With diagrams shows the top, bottom and parting line gating systems used in sand casting. Describe their advantages and disadvantages.
+6
+(b) What is investment casting? Describe the steps.
+6
+(c) How pipes are manufactured by centrifugal casting? Explain with a diagram.
+8
+4. (a) Distinguish among hot, cold and warm working.
+6
+(b) What is impact extrusion? With diagram explain its application.
+6
+(c) What is the difference between deep drawing and wire drawing? Why clearance between punch and die is important? Indicate where it is giving for punching operation.
+8
+Group B
+5. (a) With neat sketches show the different turning operations.
+8
+(b) With a schematic diagram describe the ECM process.
+6
+(c ) With sketch differentiate between up and down milling.
+6
+6. (a) Describe the use of flux and filler in welding. With a neat sketch describe the MIG Welding process.
+8
+(b) Specify a grinding wheel. Mention the meaning of each letter/number. What is Wheel glazing?
+6
+(c) What is the difference between drilling and reaming? Show the different part of a drill bit and a reamer.
+6
+7. (a) What you understand by Group Technology? Describe briefly different type of GT system.
+8
+(b) Differentiate among honing, lapping and super finishing processes.
+6
+(c) List the considerations taken during design for economic manufacturing and for Manufacturing integration.
+6
+8. (a) Describe different type of sensors and AGVs used in industry.
+6
+(b) Define a robot. Give classification of robots based on geometrical configuration.
+8
+(c) Differentiate among NC, CNC and DNC machines.
+6
+Group C
+9. Answer the following in brief:
+10x2
+(i) Chill and chaplets
+(ii) Models and prototype
+(iii) Reliability
+(iv) Type of design checks
+(v) Difference between oxidizing and neutral gas welding flames.
+(vi) Difference between shaping and planning.
+(vii) Open and closed die forging
+(viii) Center-less grinding
+(ix) Three high and four high rolling mills
+(x) CAPP.
+
+Summer 2017
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Time: Three hours
+Maximum Marks : 100
+Group A
+1. (a) What do you understand by the term ‘Design by Evolution’? Trace the major changes you observed over the decades in electric switches. Why these changes are being made?
+(8M)
+(b) Briefly describe the following types of customer needs:
+(4x2 M)
+(i) Direct needs
+(ii) Latent needs
+(iii) Constant needs
+(iv) Variable needs.
+(c) Explain the following Engineering requirements:
+(2x2)
+(i) Functional requirements
+(ii) Constraints.
+2. (a) The problem of urban transport is getting increasingly acute with each passing year. Carry out the need analysis for an urban transport system for a metropolitan city.
+(8M)
+(b) What valuable function does brainstorming a product or product design serve?
+(8M)
+(c) Make a short note on ‘Design for assembly’.
+(4M)
+3. (a) Write down some of the main considerations that may be used in choosing the casting process for fabrication of a product.
+(8M)
+(b) With schematic diagram explain the investment casting process. Write down its advantages and limitations.
+(8M)
+(c) Why does grey iron casting requires less riser material than a steel casting of the same size?
+(4M)
+4. (a) Briefly explain the principle of rolling. Give examples of rolling stand arrangement.
+(8M)
+(b) (i) Differentiate between coining and embossing.
+(4M)
+(ii) Distinguish between bending and drawing.
+(4M)
+(c) What are the specific merits of cold working over hot working?
+(4M)
+Group B
+5. (a) What do you understand by the term ‘Drilling’, ‘Reaming’ and ‘Boring’? How do they differ from each other?
+(8M)
+(b) Differentiate between up-milling and down-milling. Explain their application mentioning the most commonly used method.
+(8M)
+(c) Under what condition hydraulic shapers are preferred over the mechanical shaper?
+(4M)
+6. (a) With schematic diagram explain the fundamentals of ultrasonic machining process (USM). Why USM is not suitable for materials having less than 60Rc?
+(8M)
+(b) What are the grinding process parameters that are of interest? Explain their effect on the grinding performance and the wear rates.
+(8M)
+(c) Discuss the necessity of edge preparation in welding.
+(4M)
+7. (a) What do you understand by the term group technology? What is the basis of forming groups in group technology?
+(4M)
+(b) What is automated guided vehicle? What are the various types of AGVS that are used in automation manufacturing?
+(8M)
+(c) What are the advantages of AS/RS?
+(4M)
+8. (a) Briefly explain the classification of robots.
+(8M)
+(b) Briefly explain the methodology to be followed for developing a generative type of computer aided process planning system.
+(8M)
+(c) What is direct numerical control and how it is different from distributed numerical control
+(4M)
+Group C
+9. Answer the following questions:
+10x2
+(i) What are the methods of reducing spring back in sheet metal operations?
+(ii) Write briefly about mould wash.
+(iii) What is an Adaptive control?
+(iv) Draw relaxation circuit for EDM and label its various parts. Also draw the voltage time curve for the same.
+(v) What do you understand by the term machinability index?
+(vi) What is Tack weld?
+(vii) Variant approach to CAPP.
+(viii) What is redundancy? How it effects reliability of a system?
+(ix) Write down the Design for the Production Guidelines.
+(x) What is simultaneous engineering?
+
+Winter 2016
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Time: Three hours
+Maximum Marks : 100
+Group A
+1. (a) How morphological analysis can provide new product ideas? Explain with examples.
+(6)
+(b) For a new concept wall- clock give the appropriate need statement and carry out the need analysis giving important specifications, standard of performance and constraints.
+(6)
+(c) Explain the different design checks to be carried out before manufacturing. Take the example of a daily use umbrella.
+8
+2. (a) For the following product list the relevant quality parameters that go in the utility of the product, Assign weights to each of these prarameters and construct a design tree to explore the physical realizability of the concept: A combine desk-bench for classroom.
+(8)
+(b) Describe the process of brainstorming and its advantages and disadvantages.
+(6)
+(c) How pipes are manufactured by centrifugal casting?
+6
+3. (a) Give a list of classification of manufacturing processes. Find the condition between angle of contact and friction coefficient for rolling process to be feasible.
+(6)
+(b) Indicate the steps involved in investment casting.
+6
+(c) Briefly describe the various steps for making a green sand mold.
+8
+4. (a) Distinguish between direct and indirect extrusion.
+6
+(b) What is Chvorinov’s rule and indicate how it is useful for riser design?
+8
+(c) What is the difference between blanking and punching? Why clearance between punch and die is important? Indicate where it is given for each case.
+(6)
+Group B
+5. (a) Explain the process of metal removal in EDM.
+8
+(d) Distinguish between shaping and planing. Show the different turning operations with neat sketch.
+6
+(e) Show how grinding is done by center less grinding process with neat sketch.
+6
+6. (a) Distinguish among neutral, oxidizing and carburizing flames in gas welding with diagram. What is the use of flux?
+8
+(b) Show the set up for the submerged are welding. Distinguish between forward and backward welding.
+6
+(c) Distinguish between up and down milling with neat sketches. Show the different part of a drill bit.
+6
+7. (a) What you understand by Group Technology? How design for economic manufacturing is incorporated? Explain.
+8
+(b) What is CAPP? How IT helps in integration of design and manufacturing?
+6
+(c) What is AS/RS? Describe different types of AGVs used in industry.
+6
+8.(a) Differentiate between MIG and TIG welding with neat sketch.
+6
+(b) Classify the robots based on physical and geometrical attributes.
+8
+(c) Differentiate between NC and CNC machines.
+6
+Group C
+9. Answer the following in brief:
+10x2
+(i) Modular design
+(ii) Models and prototype.
+(iii) Robust design
+(iv) Chill and chaplets.
+(v) Laser beam welding
+(vi) Gates and Riser in sand casting.
+(vii) Database management system
+(viii) Electrochemical machining
+(ix) Impact extrusion
+(x) Open and closed die forging.
+
+SUMMER 2016
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Group A
+1. (a) Discuss various stages of product life cycle.
+(S 2016 8M)
+(b) Explain how customer’s need is identified and analysed.
+(S 2016 8M)
+(c) What are product design specifications?
+(S 2016 4M)
+2. (a) Classify manufacturing processes. Briefly discuss each type of process.
+(S 2016 10M)
+(b) Discuss the guidelines for ‘Design for Manufacture’.
+(S 2016 10M)
+3. (a) Differentiate between bottom gate and top gate.
+(S 2016 4M)
+(b) Explain, with a suitable example, how a green sand mould is made for sand casting.
+(S 2016 10M)
+(c) Discuss causes and remedies of following sand casting defects:
+(S 2016 6M)
+(i) Misrun and Cold shut
+(ii) hot tears.
+4. (a) What are the advantages of cold extrusion over hot extrusion? Discuss cold extrusion processes.
+(S 2016 6M)
+(b) What is closed die forging? What are the typical products obtained by this process? Discuss the number of passes the product requires in closed die forging.
+(S 2016 14M)
+Group B
+5. (a) With a neat block diagram of an engine lathe, discuss its important components.
+(S 2016 8M)
+(b) During orthogonal turning of mild steel at 210 m/min with a tool of rake angle 12o, the width of cut and uncut thickness are 1.8 mm and 0.2 mm, respectively. If the average value of the coefficient friction between the chip and tool is 0.55 and shear strength of the material is 390 N/mm 2 , calculate the shear angle, cutting force and thrust force, using Merchant’s theory. Also, calculate the shear angle (without using Merchant’s theory), if the chip thickness is 0.5mm.
+(S 2016 12M)
+6. (a) Differentiate between Gas Tungsten Are welding and Gas Metal Are welding processes.
+(S 2016 7M)
+(b) Compare and contrast Electrodischarge Machining and Electrochemical Machining processes.
+(S 2016 7M)
+(c) Describe the shielded metal are-welding process. Why is the shielded metal are-welding process difficult to automate?
+(S 2016 6M)
+7. (a) What is Group Technology? Explain various basis of part classification in Group Technology.
+(S 2016 10M)
+(b) Discuss the need of installing automatic storage and retrieval systems (AS/RS). What are the components and operating features of an AS/RS?
+(S 2016 10M)
+8. (a) Discuss the basis of selection of manufacturing processes to manufacture a part.
+(S 2016 10M)
+(b) Explain how computer aided process planning is better than conventional process planning. Discuss two approaches of computer aided process planning.
+(S 2016 10M)
+Group C
+9. Explain the following in brief:
+(S 2016 20M)
+(i) Types of cutting tool wear
+(ii) Reliability
+(iii)Grinding wheel specification
+(iv) Robust design
+(v) Fettling
+(vi) Simulation
+(vii) Split pattern
+(viii) Importance of rake angle of a cutting tool
+(ix) Wire drawing
+(x) Reverse engineering
+
+WINTER 2015
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Group A
+1. (a) What are the objectives of engineering design?
+(W 2015 4M)
+(b)Explain the following design concepts:
+(W 2015 4M)
+(i)Design by evolution
+(ii) Design by innovation.
+(b) What do you mean by engineering design process? State and explain the stages of engineering design process.
+(W 2015 8M)
+(c) Explain the conceptual framework of brainstorming.
+(W 2015 4M)
+2. (a) Explain the tools and techniques for evaluation of engineering design concepts. Also, state and explain three conditions which are essential for making suitable decision for selection of a design.
+(W 2015 10M)
+(b) What do you meant by robust design? State and explain five primary tools used for development of robust design.
+(W 2015 10M)
+3. (a) Explain the concept of top-up and bottom down modularization. What are the advantages and limitations?
+(W 2015 8M)
+(b) Explain following type of pattern with the help of a neat sketch. Also, state their application possibilities.
+(W 2015 8M)
+(i) Match plate pattern
+(ii) sweep pattern
+(iii) Follow board pattern
+(iv) Gated pattern
+(c) What are the advantages and application possibilities of investment casting?
+(W 2015 4M)
+4. (a) What do you mean by metal forming? Explain a forming process, which is being performed under the condition of tensile stresses, with the help of a neat sketch. Also state the advantages and limitations of the process.
+(W 2015 10M)
+(b) Explain the difference between the hot metal working and cold metal working
+(W 2015 6M)
+(c) Differentiate between forward and backward extrusion process.
+(W 2015 4M)
+Group B
+5. (a) Draw the merchant’s force diagram. State the assumptions made in the development of such a diagram.
+(W 2015 8M)
+(b) Explain with the help of a neat sketch, the quick return mechanism used in the shaper.
+(W 2015 6M)
+(c) What do you mean by negative rake milling? What are its advantages? Under what conditions you will recommend its use?
+(W 2015 6M)
+6. (a) Explain cutting mechanism of the grinding process. How can you specify a grinding wheel?
+(W 2015 6M)
+(b) What are the conditions under which you will commend for unconventional machining processes?
+(W 2015 4M)
+(c) Differentiate between welding, brazing and soldering.
+(W 2015 6M)
+(d) What are the functions of coating provided over the electrodes?
+(W 2015 4M)
+7. (a) What was the need for integration of manufacturing processes? Explain the concept of flexible manufacturing system. State and explain the functions of various components of flexible manufacturing systems. What are the advantages and limitations of flexible manufacturing
+system?
+(W 2015 12M)
+(b) Explain the conceptual framework of group technology. What are the various coding schemes used in group technology? Explain any one coding scheme briefly.
+(W 2015 8M)
+8. (a) Explain the concept of economics of metal machining.
+(W 2015 6M)
+(b) What are the various types of AGVs? Explain the working principle of AGV. What are its advantages.
+(W 2015 8M)
+(c) What do you mean by process planning? Explain computer aided process planning.
+(W 2015 6M)
+Group C
+9. Answer the following in brief:
+(W 2015 20M)
+(i) Draw Spikes
+(ii) Blow Holes
+(iii) Gating System
+(iv) Direct current reverse polarity
+(v) Magnetic are blow
+(vi) Design for assembly
+(vii) Modular Design
+(viii) Automated storage and retrieval system (AS/RS)
+(ix) Database management systems
+(x) Up-milling
+
+SUMMER 2015
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Group A
+1. (a) Discuss the Morris Asimow’s seven phases of morphology of design.
+14
+(b) Explain the types of technological innovation.
+6
+2. (a) Discuss the various stages of product life cycle.
+10
+(b) Classify manufacturing processes. Briefly discuss each type of process.
+10
+3. (a) Explain how a green sand mould is made for sand casting, with a suitable example.
+10
+(b) Enlist some pattern making materials. On what basis a pattern-making material is selected?
+5
+(c) What are the differences between true centrifugal casting and semi-centrifugal casting?
+5
+4. (a) Discuss different types of cold drawing processes, with schematic diagrams.
+10
+(b) When will you select a forging process over other manufacturing processes ? Discuss different types of forging processes.
+10
+Group B
+5. (a) Discuss various important components of a centre lathe, with a neat block diagram of a centre lathe machine.
+10
+(b) During orthogonal turning on a workpiece of diameter 120 mm at 100 m/min with rake angle 15 degree , the width of cut and chip thicknesses are 0.4 mm and 0.3 mm, respectively . The feed during the operation was 0.2 mm/rev. If the cutting force and thrust force are 1200 N and 300N, respectively, calculate the shear angle, friction angle, shear stress and shear strain.
+10
+6. (a) What are the various factors to be considered in selection of a grinding wheel ? Discuss each factor in detail.
+6
+(b) Define resistance welding. What is the source of heat in resistance welding? Describe the sequence of steps in the cycle of a resistance spot-welding operation.
+6
+(c) Compare and contrast Electro Discharge Machining and Electrochemical Machining processes.
+8
+7. (a)Discuss how group technology can be applied in manufacturing and in product design.
+10
+(b) Justify the reasons for installing an AS/RS . What are the components and operating features of an AS/RS?
+5 + 5
+8. (a) What are the advantages of computer aided process planning ? Discuss any two approaches of computer aided process planning.
+10
+(b) What is robot end-effectors? Discuss various types of end-effectors. Identify some application areas where industrial robot can be applied.
+10
+Group C
+9. Explain the following in brief:
+10x2
+(i) Reverse engineering.
+(ii) Quality Function Deployment.
+(iii) Directional Solidification
+(iv) Hot tears
+(v) Reliability
+(vi) Shear plane in orthogonal metal cutting.
+(vii) Blanking
+(viii) Face plate.
+(ix) AGV
+(x) Brainstorming.
+
+Winter 2014
+Fundamentals of design and manufacturing
+
+GROUP A
+1. (a) Discuss various phases of a product development process?
+(8)
+(b) Explain how the following engineering design types are different from each other: innovative design, adaptive design, variant design and industrial design.
+(8)
+(c) Consider a system with three different components. Unit 1 and 2 are connected in series and unit 3 in parallel with the first two. Calculate the reliability of the system if R 1 = 99.5%, R 2 = 98.7% R 3 = 97.3% at 100 hr?
+(4)
+2. (a) Discuss various phase by which an engineering design is communicated. Explain the basic structure of a technical report?
+(12)
+(b) Discuss the guidelines for design for manufacture?
+(8)
+3. [Figure_Here](a) What are factors on which permeability of a moulding sand depend? Discuss in brief? (5)
+b) A job, shown in figure is to be made of steel by casting process. The mould for this job is made from a wooden pattern. Determine the
+dimension of the wooden pattern. Assume machining allowance of 2mm on each side, shrinkage allowance of 2% and a taper allowance of one degree?
+(10)
+4. (a) Differentiate between:
+(6)
+i) segmental pattern and sweep pattern
+ii) match plate pattern and cope drag pattern
+b) Discuss various types of hot and cold extrusion processes.
+(14)
+Group B
+5. (a) Distinguish between generating and forming when machining work part geometries. Give two examples of machining operations in which generating and forming are combined to create work part geometry
+(4)
+b) in orthogonal turning of a 50 mm diameter mild steel bar on a lathe , following data were obtained ; rake angle = 15% , cutting speed = 100 m/min , feed 0.2 mm/rev , cutting force = 1800 N , feed force = 600NB . Calculate the chip thickness ratio, shear plane angle, and coefficient of friction, if the chip thickness is 0.3 mm.
+(12)
+c) What are functional differences between a shaper machine and a planer machine?
+(4)
+6. (a) Discuss working principles of the cylindrical grinding process . In what way centre-less process is more advantageous than cylindrical grinding process
+(8)
+b) Discuss the importance of non conventional manufacturing processes in context with modern manufacturing industries
+(6)
+c) Discuss the submerged arc welding (SAW) process with the aid of a neat diagram
+(6)
+7. (a) What is group technology? Explain various basis of part classification in group technology?
+(10)
+b) What is automated guided vehicle (AGV)? What are various types of AVG’s?
+(10)
+8. (a) What are the factors that influence the selection of a manufacturing process to make a part ? Discuss in brief?
+(10)
+b) Discuss the basic elements of an industrial robot?
+(10)
+Group C
+9. Explain the following in brief:
+10x2
+1) Benefits of standardization
+2) Design for assembly (DFA)
+3) Difference between quality and reliability
+4) Simulation
+5) Core print
+6) Robust design
+7) Master pattern
+8) Chaplet
+9) Functions of dielectric in EDM
+10) Chip breakers
+
+Summer 2014
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+GROUP A
+1. (a) Why is it important to analyse needs? What are the objectives of need analyses? Give one need statement for each: a bicycle, a text-book, a fan and a tree.
+4x3
+(b) How the need for a particular product be analysed?
+8
+2. Explain the following with the help of suitable examples :
+(a) Design for manufacturability
+7
+(b) Product miniaturisation
+7
+(c) Morphology of design
+6
+3. (a) The manufacturer of a metal gear may include the following; List the advantages and limitations of each of the process as applied to manufacture of gears.
+10
+(i) Casting
+(ii) Forging
+(iii) Press work
+(b) What is meal forming? What are various processes of metal forming? What is the significance of recrystallisation temperature in metal forming?
+3+3+4
+4. (a) What do you mean by investment casting ? What are the advantages and disadvantages of investment casting process? Give some applications.
+3+3+4
+(b) What is sweep pattern? When is it used? What are various materials used for making a pattern?
+3+3+4
+Group B
+5. (a) Define Group Technology (GT) concept in manufacturing. Discuss the stages involved for adopting a plan for group technology.
+8
+(b) What do you understand by simulation? Discuss its utility.
+6
+(c) What is group technology centre? How does it work in an organization?
+6
+6. (a) What is Computer Aided Process Planning? How is it Superior to manual process planning? Explain.
+8
+(b) In computer integrated manufacturing system, what is being integrated into what? What is the role of computer in this integration?
+8
+(c) What is design for assembly? Explain briefly.
+4
+7. (a) What is chip? What are the main types of chips formed during metal cutting? Why are non-homogeneous chips formed?
+10
+(b) Define cutting speed, feed and depth of cut as applied to drilling operations. What are the major factors on which these tree factors depend?
+10
+8. (a) Describe grinding process. What are the various factors considered in selection of proper grinding wheels?
+8
+(b) Write a descriptive note on oxy-acetylene welding. Mention its application areas.
+6
+(c) Explain the principle of Electrochemical Machining (ECM) with a neat sketch.
+6
+Group C
+9. Explain the following in brief:
+10x2
+(i) Reliability
+(ii) Recyclability
+(iii) Modular design
+(iv) Selection of machine tools
+(v) ASRS
+(vi) Tool-work interaction
+(vii) Gang milling
+(viii) Product life - cycle
+(ix) Core backing
+(x) Friction welding.
+
+Winter 2013
+Fundamentals of Design and Manufacturing
+1. (a) Explain briefly various steps to be followed to design a product. Illustrate the same with the help of an example?
+(8)
+(b) Discuss the following:
+(3x4)
+i) Creative design
+ii) Innovative design
+iii) Use of artificial intelligence in designing a product
+2. (a) What is product life cycle? Illustrate, with a suitable example, various stages of product life cycle
+(2+6)
+(b) What are various shortfalls in traditional product design methodology?
+(6)
+(c) Compare the reliability system with components in series against components in parallel?
+(6)
+3. (a) What are various steps used to prepare a mold in shell molding process? Give the advantages and disadvantages of shell molding process over green sand molding process?
+(2 + 6)
+(b) What are various constituents of molding sand? What are the properties desirable of Molding sand from the standpoint of sound casting?
+(2 + 6)
+(c) Define the following terms and their functions:
+(2x2)
+i) Riser
+ii) Chaplets
+4. (a) Briefly explain the principle of rolling with a neat sketch. Give three different types of rolling stand arrangements
+(4+4)
+(b) Explain the following processes using neat sketches whereever necessary:
+(3x4)
+i) Extrusion
+ii) Blanking
+iii) Piercing
+Group B
+5. (a) What is merchant’s circle diagram? Discuss its significance
+(6)
+(b) Differentiate between shaping, planning and slotting as regards to relative tool and working motions. Draw sketches of these operations in support of your answer.
+(8)
+(c) Explain different machining operations that can be performed on a vertical spindle milling machine?
+(6)
+6. (a) How would you specify a grinder? Describe various factors used in the selection of a grinding wheel
+(8)
+(b) Briefly describe the following finishing operations:
+(3x4)
+i) Honing
+ii) Lapping
+iii) Buffing
+7. (a) Describe the principle of operation of electro discharge machining with the help of schematic illustrations?
+(8)
+(b) What are the advantages of unconventional machining processes? Explain the working of electrochemical machining process with suitable sketches.
+(8+4)
+8. (a) Explain the following in brief with neat sketches:
+(2x4)
+i) Submerged arc welding
+ii) Metal inert gas welding
+(b) Explain the following:
+(3x4)
+i) Automatic storage and retrieval system
+ii) Computer aided process planning
+iii) OPTIZ classification system of Group Technology
+Group c
+9. Briefly explain the following:
+(10x2)
+i) Various methods of heat treatment of steels
+ii) Group technology
+iii) Design for reliability
+iv) Design for manufacturability
+v) Various types of chip formation in a single point cutting operation?
+vi) Robust design
+vii) Thermit welding
+viii) HAZ
+ix) Hot and cold working of metals
+x) Data base management system
+
+SUMMER 2013
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Time: Three hours
+Maximum Marks: 100
+Group A
+1. (a) What is design? Write the checklist for engineering design problems. 
+2+6
+(b) Explain four major dimensions of functionality of design.
+8
+(c) What is design review?
+4
+2. (a) What is communication? What are the factors on which effectiveness of communication depends?
+2 + 6
+(b) Differentiate between morphology of design and anatomy of design.
+8
+(c) Write the main elements of any technical report.
+4
+3. (a) What is pattern? Explain different types of pattern allowances with a suitable diagram.
+2+6
+(b) Explain briefly the following terms relating to casting:
+4x2
+(i) Permeability of moulding sand
+(ii) Role of clay in casting
+(iii) Core and core print
+(iv) Elements of gating system
+(c) What is the differences between hot chamber and cold chamber die casting? Why is aluminium alloy not used in hot chamber die casting?
+3+1
+4. (a) Explain progressive dies, compound dies and combination dies with a suitable diagram.
+8
+(b) Define forging. Explain sequentially the various passes used in drop forging with a suitable diagram.
+2+6
+(c) Briefly explain the meaning of draught and elongation as related to hot rolling.
+4
+Group B
+5. (a) What are the various methods available for taper turning in a lathe? Explain their specific advantages and limitations.
+5+3
+(b) Write short notes on the following:
+4x2
+(i) Straddle milling
+(ii) Spade drills
+(iii) Advantage of hydraulic shaping
+(iv) Climb milling
+(c) A grey cast iron shaft is machined in a centre lathe in 1 min. with a single cut. The shaft is 100mm long and 75mm in diameter. If the feed used is 0.30mm/revolution, what was the cutting speed? Assume over run = 2mm.
+4
+6. (a) Define centreless grinding. Describe the type of centreless grinding operations. Write the advantage and limitation of centreless grinding.
+1+6+3
+(b) Explain the principle of EDM with a neat sketch.
+8
+(c) What are the three basic manufacturability considerations for design of weldments?
+2
+7. (a) Differentiate between direct numerical control and computer numerical control.
+4
+(b) Explain the requirement of database for a manufacturing organization.
+4
+(c) What are the classifications of robots?
+4
+(d) Differentiate between variant process planning and generative process planning.
+4
+(e) What is ‘Rule of Hundred’ with respect to integration?
+4
+8. (a) Describe the factors on which selection of manufacturing method is done for a particulate product.
+10
+(b) Discuss the stages involved for adopting a plan for group technology.
+10
+Group C
+9. Explain / solve the following in brief:
+10x2
+(i) Quill punches
+(ii) Embossing and coining
+(iii) Product simplification
+(iv) Modular design
+(v) Customize product design
+(vi) String milling
+(vii) Projection welding
+(viii) Lead-through programming for robots
+(ix) For resistance spot welding of two 2.5mm thick aluminium plates, 5500 A current was passed for 0.2sec. Estimate heat energy required for welding. (Assume resistance = 75μ ohm).
+(x) Capacity planning.
+
+WINTER 2012
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Time: Three Hours
+Maximum marks:100
+Group A
+1. (a) What are the different stages of engineering design? Discuss with a suitable example.
+8
+(b) How are needs for a particular product analysed?
+6
+(c) Differentiate between morphology and anatomy of design.
+6
+2. (a) What are the main limitations of the sand casting process and how are they overcome?
+6
+(b) What is investment casting? What are its advantages and limitations?
+8
+(c) What are the distinguishing features between a casting and a pattern?
+6
+3. (a) What is metal forming? What are the various process of metal forming?
+6
+(b)Explain the following terms as applicable to rolling process:
+3x2
+(i) Neutral point
+(ii) Angle of bite
+(iii) Draft
+(c) Explain the difference between punching and blanking with the help of neat sketches.
+8
+4. (a) Enumerate the reasons responsible for the development of advanced (unconventional) machining processes. Under what manufacturing conditions you will prefer to use these processes as compared to conventional machining processes.
+8
+(b) Make a list of important process parameters in case of electro-discharge machining and ultrasonic machining.
+3+3
+(c) What are the capabilities that an effective Computer Aided Processs Planning (CAPP) system should have? Discuss in brief.
+6
+Group B
+5. (a) What is group technology? What are the important benefits derived from group technology concept in manufacturing?
+6
+(b) What is information system design? List major steps explaining in brief the step to be followed in the design of an information system for manufacturing.
+10
+(c) What is data life cycle? Explain briefly.
+4
+6. (a) Define welding. Classify different welding process.
+4
+(b) What do you mean by polarity? Distinguish between straight and reverse polarity. What is the main advantage of having different polarities?
+6
+(c) Two 1 mm thick steel plates (sheets) are to be spot welded at a current of 10,000 A. Assuming effective resistance to be 200 μΩ, and current flow time of 0.1 sec, calculate the heat generated during the process. If the density of the spot weld nugget is 8g/cm -3 and its
+volume is 120x10 -3 cm 3 , calculate the efficiency of the process, assuming 1380 joules of heat are required to melt 1 g of steel.
+10
+7. (a) Define speed, feed and depth of cut as applied to a drilling machine.
+6
+(b) What is grinding? What are the parameters that control the grinding process
+8
+(c) Find the angle at which the compound rest should be set to turn a taper on the workpiece having a length of 200 mm, larger diameter 45 mm and smaller diameter 30 mm.
+6
+8. (a) Discuss the concept of resolution, accuracy and repeatability of a robot arm.
+8
+(b) Discuss the future of factory automation in the light of industrial robotics.
+6
+(C) Distinguish between end effectors and sensors as applied to robots.
+6
+Group C
+9. Explain the following in brief:
+10x2
+(i) Modular design
+(ii) Brainstorming
+(iii) Recyclability
+(iv) Flash in a forging operation
+(v) Manufacturing integration
+(vi) Selection of a manufacturing process
+(vii) Reliability
+(viii)Economic feasibility
+(ix) Permanent mould casting
+(x) Robust
+
+SUMMER 2012
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Time: Three Hours
+Maximum marks:100
+Group A
+1. (a) What is a product life cycle? Illustrate various stages of product life cycle with a suitable example.
+(8)
+(b) Describe the following in detail:
+( 3 x 4 )
+(i) Design for reliability
+(ii) Design for assembly
+(iii) Design for re-cyclability.
+2. (a) What are the main requirements to design a product? Explain briefly various steps to be followed to design a product.
+(8)
+(b) Explain briefly the engineering design process and its structure.
+(8)
+(c) Briefly explain the concept of following with respect to the new product design:
+( 2 x 2 )
+(i) Brainstorming
+(ii) Morphological analysis.
+3. (a) describe the die-casting process . Explain briefly the advantages and disadvantages of die casting process over sand casting process.
+12
+(b) List various characteristics that are required in the dry sand moulding
+(8)
+4. Explain the following in brief:
+( 4 x 5 )
+(i) Rolling and various types of rolling stand arrangements.
+(ii) Advantages and disadvantages of hot and cold rolling
+(iii) Captive foundry
+(iv) Shell molding process.
+Group B
+5. (a) Draw the Merchant’s force diagram and state the assumptions made in its development.
+(8)
+(b) Describe the essential parts of a lathe machine. Explain the various processes that can be performed on a lathe machine.
+(8)
+(c) Differentiate between shaping, planning and slotting as regards to relative tool and work motion.
+(4)
+6. (a) Describe the mechanism of material removal in ultrasonic machining with the help of schematic illustrations.
+(10)
+(b) What are the various factors considered in the selection of grinding wheels? How are the grinding wheels specified ?
+(10)
+7. Briefly explain (using neat sketches ) the method of joining the metals by the following welding processes. Also explain the advantages and disadvantages of each process:
+( 4 x 5 )
+(i) Thermit welding
+(ii) Submerged arc welding
+(iii) TIG welding
+(iv) MIG welding
+8. Write short notes on the following:
+( 4 x 5 )
+(i) CAPP
+(ii) Group Technology
+(iii) AS/RS
+(iv) Simulation and modeling
+Group C
+9. Define/explain the following:
+10x2
+(i) AGVs
+(ii) Significance of re-crystalline temperature.
+(iii) Sensors and robots
+(iv) Functions of cores
+(v) Uses and application of Information Technology
+(vi) CIM
+(vii) Data Base Management System
+(viii) Differences between soldering and brazing
+(ix) Creative, adoptive and variant designs.
+(x) Cold shut defect: causes and remedies.
+
+WINTER 2011
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Time: Three Hours
+Maximum marks:100
+Group A
+1. (a) Explain the term ‘design’. Enumerate various steps involved in design process. Explain these steps in brief.
+2+4+4
+(b) Distinguish between ‘need identification’ and ‘need analysis’.
+5
+(c) Differentiate between ‘standardization’ and ‘specification’ giving appropriate examples.
+5
+2. (a) What is morphology of design ? Explain all parts of morphology of design.
+4+6
+(b) Explain ‘evaluation’ and ‘evolution’ in the design process.
+6
+(c) How will you organize and communicate the design ?
+4
+3. (a) What is ‘manufacturing’? How is it different from ‘production’?
+6
+(b) What is ‘design for manufacture’? Explain.
+6
+(c) Define the terms ‘reliability’ and ‘maintainability’.
+8
+4. Describe the following:
+4 x 5
+(a) Investment casting
+(b) Technical report
+(c) Rolling
+(d) Extrusion.
+Group B
+5. (a) Classify machining processes. Name the operations performed on a lathe machine. How will you specify a lathe machine ? Show sketches.
+4+2+4
+(b) Differentiate between shaper and planar.
+5
+(c) What is arc welding? What precautions should be taken during welding by arc welding process?
+5
+6. (a) What is surface grinder ? Under what conditions the use of this machine is recommended?
+2+4
+(b) What are the advantages of welding join over other joints? Explain oxyacetylene gas welding.
+2+4
+(c) What is information technology? How are its elements important in present scenario?
+4+4
+7. Explain the following in detail:
+4x5
+(a) Group technology
+(b) Simulation
+(c) Robot
+(d) AGV
+8. (a) What is Computer Aided Process Planning ? How is it better than manual process planning?
+8
+(b) What do you mean by unconventional machining process? Discuss their importance
+6
+(c) Define cold working of metals Enumerate its advantages and disadvantages.
+6
+Group C
+9. Briefly explain the following:
+10x2
+(i) Design by evolution
+(ii) Gantry robots
+(iii) Sensors
+(iv) AS/RS
+(v) Robust design
+(vi) Casting
+(vii) Forging
+(viii) Brainstorming
+(ix) Feasibility
+(x) System
+
+SUMMER 2011
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Time: Three hours
+Maximum marks: 100
+Group A
+1. (a) Example briefly various steps to be followed to design a product with the help of an example.
+(8)
+(b) Discuss the following:
+(3x4)
+(i) Design specifications
+(ii) Creative design
+(iii) Design by evolution.
+2. (a) What do you mean by morphology of design? Explain briefly.
+(5)
+(b) Explain various stages of a product life cycle. What is its utility?
+(5)
+(c)Write a descriptive note on ‘design checks for clarity, simplicity and safety’.
+(10)
+3. (a) what are the advantage and disadvantages investment casting process? Mention some of its applications?
+(8)
+(b) What is sweep pattern? When is it used?
+(4)
+(c) Define the terms:
+(4x2)
+(i) Sprue
+(ii) Gate
+(iii) Core
+(iv) Parting line.
+4. Differentiate between the following:
+(4x5)
+(i) Hot working and cold working.
+(ii) Rolling and forging
+(iii) Extrusion and wire drawing
+(iv) Blanking and piercing.
+Group B
+5. (a) What is chip ? What are the main types of chips formed during metal cutting?
+(8)
+(b) Define cutting speed, feed and depth of cut as applied to a shaping process.
+(4)
+(c ) What is Merchants circle diagram? Discuss its significance.
+(8)
+6. (a) Describe grinding process. What are the various factors considered during selection of grinding wheels?
+(8)
+(b) Compare the machining characteristics of different machining process (such as EDM , ECM, and USM) with respect to:
+(4x3)
+(i) metal removal rate
+(ii) surface finish obtained
+(iii) depth of surface damage
+(iv) power required for machining.
+7. (a) What do you mean by Computer Aided Process planning (CAPP) and state some of its advantages. Under what situation, CAPP is preferred as compared to manual process planning.
+(10)
+(b) Identify some of the benefits in integrating the design and manufacturing processes. What are the basic elements that go into making up a robotic cell for a particular application?
+(10)
+8. (a) what is gas welding? Explain different types of flames in oxy-acetylene welding. State their specific applications.
+(10)
+(b) Define group technology concept in manufacturing. Discuss the stages involved for adopting a plan for group technology.
+(10)
+Group C
+9. Briefly explain the following:
+(10x2)
+(i) Selection of machine tools.
+(ii) Design for manufacturability
+(iii) Database management
+(iv) AS/RS
+(v) Concept of a system
+(vi) Design of assembly
+(vii) Brainstorming
+(ix) Closed die forging
+(x) Velocity of shear in metal cutting
+
+WINTER 2010
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Time: Three hours
+Maximum marks: 100
+GROUP A
+1. (a) Explain briefly various steps to be followed to design a product. IIIustrate the same with the help of an example.
+(6)
+(b) What is the role of need analysis in the design process?
+(6)
+(c) What is product life cycle ? IIIustrate, with a suitable example, various stages of product life cycle.
+(2+6)
+2. (a) Briefly explain the principle of rolling with a neat sketch. Give three different types of rolling stand arrangements.
+(8)
+(b) What is group technology? How does it help in improving the economy of product ion process?
+(6)
+(c) Explain the integration of CAD and CAM in detail.
+(6)
+3. (a) Briefly explain the steps involved in making a shell casting mold.
+(5)
+(b) Explain briefly the following:
+(2 x 5)
+(i) Design for manufacturability and its applications
+(ii) Various method of inspection of casting for internal and external defects
+4. (a) What is Merchant’s circle diagram ? Discuss its significance.
+(6)
+(b) Differentiate among shaping, planning and slotting as regards to relative tool and work motions. Show sketches of these operations in support to your answer.
+(6)
+(c) Explain different machining operations that can be performed on a vertical spindle machine.
+(8)
+GROUP B
+5. (a) How would you specify a grinder? Describe various factors used in the selection of a grinding wheel.
+(8)
+(b) Briefly describe the following finishing operations:
+(3x4)
+(i) Honing
+(ii) Lapping
+(iii) Buffing
+6. (a) With the help of schematic illustrations, describe the principle of operation of electrochemical machine.
+(8)
+(b) What are the advantages of unconventional machining process? Explain the working of ultrasonic drilling with suitable sketches?
+(12)
+7. (a) Explain (showing sketches) the following in brief:
+(3x4)
+(i) Submerged arc welding
+(ii) Metal inert gas welding
+(iii) Thermit welding
+(b) Why is it necessary to achieve directional solidification in casting ? What are the methods usually employed for obtaining conditions suitable for directional solidification?
+(8)
+8. Explain the following:
+(4x5)
+(a) Role of simulation, modeling and optimization in engineering design.
+(b) Automatic storage and retrieval system
+(c) Computer Aided process planning
+(d) OPITZ classification system of GT.
+GROUP C
+9. Briefly explain the following:
+(10x2)
+(i) Various methods of heat treatments of steels
+(ii) Group technology
+(iii) Hot tears and cold shut defects in casting
+(iv) HAZ
+(v) Information technology and its elements
+(vi) Creative, adoptive and variant design
+(vii) Various types of chip formation I a ingle point cutting operation
+(viii) Extrusion and rolling operations
+(ix) Reliability and maintainability
+(x) Robust design
+
+SUMMER 2010:
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Time: Three hours
+Maximum marks: 100
+Group A
+1. Select a product, such as the telephone or the television, and prepare sketches to describe how their appearances have changed from their inception to the present. What role has technology had in influencing these changes?
+(20)
+2. (a) Explain how the systematic design process can aid in creating quality products.
+(8)
+(b) What is the role of need analysis in the design process. Give one need statement for each of the following:
+(4x3)
+(i) Bicycle
+(ii) Washing machine
+(iii) Personal Computer
+(iv) Private car
+3. (a) What are main advantages of the casting process? What are its limitations and how are they overcome?
+8
+(b) Explain the following:
+4x3
+(i) Rolling
+(ii) Extrusion
+(iii) Blanking
+(iv)Forging
+4. (a) Define the term 'reliability' and 'maintainability'. Compare the reliability of systems with components in series vs. components in parallel.
+(10)
+(b)What is 'input-output' model? How will you use this model for a manufacturing process? What are the main factors on which the selection of a manufacturing process depends?
+(10)
+Group B
+5. (a) What are the main types of chips formed during metal cutting ? Why are non-homogenous chips formed?
+6
+(b) Define cutting speed, feed and depth of cut as applied to drilling. What are the major factors on which above three factors depend?
+10
+(c) What is cutting ratio? How can it be determined?
+4
+6. (a) How have integration and information technology influenced the fields of product design and manufacturing?
+10
+(b) What is group technology concept in manufacturing? What are the important benefits derived from it?
+10
+7. (a)‘Simulation is one type of modelling’- is it rue? Discuss in detail.
+(6)
+(b) What are the main considerations to design a product by
+(3+3)
+(i) a casting process
+(ii) a forging process.
+(c) What is computer aided process planning (CAPP)? What are the types of data required for developing a CAPP system? Differentiate between variant and generative systems of process planning.
+(8)
+8. (a) Explain the basic principle involved in electrochemical machining.
+(10)
+(b) Would electrochemical grinding be suitable process for sharpening ceramic tools? Why or why not? What about suing ultrasonics?
+(10)
+Group C
+9. Briefly explain the following:
+(10x2)
+(i) Design by evolution
+(ii) Problem identification
+(iii) Design morphology
+(iv) AGVs
+(v) Gantry robots
+(vi) Sensors
+(vii) Robust design
+(viii) Drawing and extrusion
+(ix) Casting defects
+(x) Hot and cold working
+
+Winter 2009
+Fundamentals of Design and Manufacturing
+Group A
+1. (a) What is product life cycle ? Illustrate with suitable example, the various stages of product life cycle?
+(10M)
+(b)Explain the following in detail:
+(2x5)
+(i) Design for reliability
+(ii) Design for assembly
+2. (a) Describe the investment casting process. What are the advantages of investment casting process?
+(12 M)
+(b) Briefly explain the characteristics of moulding sand required to have a sound mold.
+(8M)
+3. Explain the following in brief:
+(4x5)
+(a) Rolling
+(b) Forging
+(c) Extrusion
+(d) Blanking
+4. (a) Explain briefly the various steps to be followed to design a product
+(10 M)
+(b) Briefly describe the various product design techniques.
+(10M)
+Group B
+5. (a) What is a Merchant’s circle diagram ? Discuss its significance.
+(10M)
+(b) Describe the essential parts of a milling machine? What are the operations that can be performed on a milling machine?
+(10 M)
+6. (a) With the help of schematic illustrations describe the principles of operations of EDM machine.
+(10M)
+(b) What are the various factors considered in the selection of grinding wheels? How are grinding wheels specified?
+(10M)
+7. (a) What is a Thermite welding ? What does a Thermite mixture consists of and what reactions takes place in Thermite welding?
+(10M)
+(b) What is manufacturability? Describe its significance in design for manufacturing.
+(10M)
+8. Explain the following:
+4x5
+(a) CIM
+(b) Group technology
+(c) Brain storming
+(d) Simulation
+Group C
+9. Define/explain the following :
+10x2
+(i) AGVs
+(ii) Name fusion welding processes
+(iii) Significance of re-crystalline temperature
+(iv) GT layout
+(v) Function of cores
+(vi) Function of risers
+(vii) Design checks
+(viii) Use of information technology
+(ix) CAPP
+(x) Soldering.
+
+SUMMER 2009
+FUNDAMENTALS OF DESIGN AND MANUFACTURING
+Group A
+1. (a) Consider the example of product, and briefly explain various steps to be followed to design this product.
+(10)
+(b) Define product life-cycle. Explain various stages of product life-cycle with a suitable example.
+(10)
+2. (a) Discuss the important features of ‘Design for Assembly’
+(10)
+(b) Suggest an organization structure for the design office of toy manufacturing company.
+(10)
+3. (a) Give steps-by-steps procedure for the investment casting process. Outline some typical applications of the process.
+(10)
+(b) Draw sketches to distinguish between punching and blanking operations of metal forming.
+(5)
+(c) Compare hot working with cold working of metals. Give relative advantages of each.
+(5)
+4. (a) Describe the permanent mould casting process. Give any two application of this process of casting.
+(10)
+(b) Sketch wire drawing operation. What factors determine the drawing ratio?
+(5)
+(c) Sketch a three high rolling mill. Give advantages and limitations of three high rolling.
+(5)
+GROUP B
+5. (a) Distinguish between shaping and planning operations. Name the machine on which these operations are performed.
+(8)
+(b) Sketch to describe the formation of a flat surface on a lathe.
+(6)
+(c) Give any there methods of taper turning on a lathe.
+(6)
+6. (a) Describe the principle of electrochemical machining or electric discharge process. Give advantages and limitation of the process.
+(10)
+(b) Give steps-wise procedure for selecting a manufacturing process.
+(6)
+(c) Compare d.c welding with a.c welding.
+(4)
+7. (a) What do you understand by Group Technology? Mention areas of its application.
+(10)
+(b) Describe the following in brief:
+(2x5)
+(i) Computer Aided process planning
+(ii) Automated Guided Vehicles.
+8. (a) Sketch and explain submerged arc welding process. Give advantages and limitations of this process.
+(10)
+(b) Discuss salient features of ‘design for economic manufacturing’.
+(10)
+GROUP C
+9. Briefly describe the following :
+(10x2)
+(i) Simulation
+(ii) Drilling operation
+(iii)Information Technology’s role in manufacturing
+(iv) Extrusion
+(v) Design for use
+(vi) Product design specifications
+(vi) Brainstorming
+(ix) Grinding processes
+(x) Cutting tool-work piece interaction during machining operation.
+
