@@ -1,0 +1,1654 @@
+Winter 2018
+COMPUTING AND INFORMATICS
+Time: Three hours.
+Maximum Mark: 100
+Answer FIVE questions, taking ANY TWO from Group A,
+ANY TWO from Group B and ALL from Group C
+All parts of a question (a,b,c etc.) should be answered at one place.
+Answer should be brief and to-the-point and be supplemented with neat sketches. Unnecessary long
+answers may result in loss of marks.
+Any missing or wrong data may be assumed suitably giving proper justification
+Figures on the right-hand side margin indicate full marks.
+Group A
+1. (a) Write the properties of an algorithm. Write an algorithm to check whether a given integer is odd or even. Verify that the properties are satisfied with the above algorithm.
+(5)
+(b) Write a program in C to find the sum of digits of a given integer using macros.
+(5)
+(c) Illustrate the use of switch, case and break statement in C with examples.
+(5)
+(d) Write the difference between call-by-value and call-by-reference. Which among these is a better option of parameter passing. Justify your answer with necessary example.
+(5)
+2. (a) Write a program in C to reverse a string without using function strrev(). Specify the name of header files that defines string function in C.
+(10)
+(b) Write a program in C to find the median of 20 elements stored in an unsorted array A[20].
+(10)
+3. (a) What do you understand by DBMS and DBA? Write different data base models which data base model in practical and used in application. Explain the role of DBA in DBMS.
+(8)
+b) How a client-server architecture is different from peer-peer architecture? Explain with examples.
+(6)
+(c) Which protocol stack is used for the Internet? Explain briefly the function of each layer of protocol stack.
+(6)
+4. (a) What do you understand by information system? Explain five phases of information system. Explain the design of information system using SDLC.
+(8)
+(b) What do you mean by diagramming a business process? Explain with an appropriate diagram.
+(6)
+(c) How office automation cell of an organisation improves the business process?
+(6)
+Group B
+5. (a) Arrange various storage devices in a digital computer in increasing order of their retrieval speed and storage capacity. Define seek time and latency with respect to various storage devices.
+(7)
+(b) Why DRAMS are slower as compared to SRAM? Specify the used of SRAM and DRAM in a digital computer.
+(6)
+(c) Illustrate the mechanism to read and write a data type in both fixed and movable head disk system.
+(7)
+6. (a) Differentiate between paging and segmentation specify the hardware needed to implement paging and segmentation.
+(7)
+(b) What is disk cache? How it is different from cache memory used in hierarchical memory system?
+(6)
+(c) Explain the comparison between block, page, and segment in memory management system.
+(7)
+7. (a) What are the universal logic gates? Develop a 3-to-8 6 decoder using universal logic gates.
+(5)
+(b) Justify that a flip-flop is a sequential logic device with appropriate example.
+(5)
+(c) What is the role of clock in a digital computer? Is it possible to have different clock for different components in a digital computer? Justify answer with example.
+(5)
+(d) Increasing clock speed of a digital computer will not improve the performance. Justify.
+(5)
+8. (a) Write an algorithm to convert a 3-digit hexadecimal number to its corresponding octal number.
+(4)
+b) Convert: (i) (53AB) 16 , to (?) 8 ,
+(ii) (6293) 10 , to (?) 4
+(4)
+(c) Write the truth table of a full adder and the corresponding logic circuit with minimal number of logic gates.
+(8)
+(d) What do you understand by tristate device? Explain with examples.
+(4)
+Group C
+9. Answer the following:
+10 x 2
+(i) Justify the use of a shared bus for address, data and control signals
+(ii) Write at least two common characteristics of high level languages.
+(iii) Give an example of macros used in language C.
+(iv) Justify that an information system is more than a computer
+(v) Differentiate between syntax and semantic errors in a program.
+(vi) Write the name of registers used for storing the base address of a page and a segment respectively in a computer system.
+(vii) Write at least two differences between compiler and interpreters
+(viii) What is the difference between user and Kernel space?
+(ix) What do you mean by command line arguments?
+(x) What do you mean by payload in a TCP/IP packet format?
+
+Summer 2018
+COMPUTING AND INFORMATICS
+Time: Three hours
+Maximum Marks: 100
+Answer FIVE questions, taking ANY TWO from Group A,
+ANY TWO from Group B and ALL from Group C.
+All parts of a question (a, b, etc.) should be answered at one place.
+Answer should be brief and to- the-point and be supplemented with neat sketches.
+Unnecessary long answers may result in loss of marks.
+Any missing or wrong data may be assumed suitably giving proper justification.
+Figures on the right - hand side margin indicate full marks.
+Group A
+1. (a) Suppose an integer array contains 100 integer elements. Write an algorithm to remove all duplicate entries.
+(6)
+(b) Draw a flow chart corresponding to your algorithm of previous part of this question.
+(6)
+(c) Write the C code that corresponding to the algorithm and flow chart of the part a and b of this question.
+(8)
+2. (a) Differentiate between parameter passing to a function by value and by reference. Explain the use of each through suitable examples.
+(10)
+(b) Write a C function named find-largest that should take and integer array and the number of elements presents in it as arguments and return the largest element present in the array.
+(10)
+3. (a) Distinguish between a client - server software and a monolithic software. Compare the relative advantage of the two.
+(8)
+(b) In a client - server software, explain how do the clients and servers communicate.
+(4)
+(c) What do you understand by "middle ware" in the context of client - server software? What is the role of the middle ware?
+(8)
+4. (a) What are the principal roles of the TCP and IP layers in the TCP/IP protocol suite? These two layers correspond to which two layers of the ISO/OSI model?
+(10)
+(b) Differentiate between TCP and UDP
+(5)
+(c) How does TCP provide reliable service? Briefly explain your answer.
+(5)
+Group B
+5. (a) What do you understand by a "stored program" computer? Who is credited with introducing this concept? What advantages did this bring over the previous computers?
+(10)
+(b) Write an algorithm to convert an Octal number into a binary number. Briefly explain your algorithm.
+(10)
+6. (a) What do you understand by half adder and full adder? Give a logic circuit for a half adder and also a logic circuit for realizing a full adder using half adders and OR gates.
+(10)
+(b) What is the difference between the combinational logic circuit and a sequential logic circuit? Give one example of each.
+(5)
+(c) What is a D flip-flop ? How is it different from an SR flip-flop? Give a truth table for a D flip-flop.
+(5)
+7.
+(a) What are the main components of an operating system? Briefly explain the major functionalities offered by these components.
+(10)
+(b) What are the main functions of a operating system ? What difficulties would a user face if a computer has no operating system?
+(10)
+8. (a) Distinguish between system software and application software. Give examples of each type of software.
+(10)
+(b) Differentiate between compilers and interpreters . Discuss the relative advantage of the two . Give at least one example of each.
+(10)
+Group C
+9. Answer all questions:
+(10x2)
+(i)Briefly justify why C++ is called a hybrid language.
+(ii) Explain the term polymorphism in the context of C++
+(iii) Differentiate between function overloading and function overriding.
+(iv) Briefly explain the term electronic data intercharge.
+(v) Convert the hexadecimal number EAF into Octal.
+(vi) Is the C conditional expression (a >b)&&(b>c) equivalent to !((a<=b)||(b<=c)). Briefly justify your answer.
+(vii) One peta byte is how many bytes ?
+(viii) Do you agree with the statement: " In Unix, a directory is also a file". Briefly justify your answer.
+(ix) Briefly explain a situation in which use of a database management system is preferable and a situation in which a file is preferable.
+(x) Briefly explain the role of a router in a WAN.
+
+Winter 2017
+COMPUTING AND INFORMATICS
+Time : Three hours
+Maximum marks :100
+Group A
+1. (a) What is an algorithm? What are the different properties of an algorithm? How an algorithm is different from a flow chart? Explain with an example?
+6
+(b) Write a flow chart for finding the following sum of series S=1-x/2 ! +x2 /3! - x3/4!+.....+ xn/(n+1)!
+6
+(c) Write at least four different types of operations that can be performed by a CPU of a computer. Explain each type of operation with an example.
+8
+2. (a) Write down the different stages in decision making. Discuss the information system needed foe different types of decision making of management?
+8
+(b) What is a DBMS? Distinguish between storage management of data using a generic file system and a database management system.
+6
+(c) What are the benefits and limitations of an office automation system as compared to traditional manual system? Give an example tool for commonly used office automation system .
+6
+3. (a) Write the structure of a switch statement in programming language C .Explain the use of a default block in a switch statement of C. Give an example of switch statement with a default block.
+7
+(b) Write a program in C++ to generate first 25 odd Fibonacci numbers.
+6
+(c ) Explain the role of a computer in an embedded system such as a microwave oven .
+7
+4. (a) Distinguish between client-server and peer to peer communication. Illustrate with a diagram and example system.
+8
+(b) What is a switch in Computer Network? Discuss the need of different switches in various layers of OSI reference model.
+6
+(c) What do you mean by address resolution? Give an example of address resolution and explain why it is necessary?
+6
+Group B
+5. (a) Perform the following number conversions. Clearly show all the steps of conversion process.
+3+3
+(i) (532.627)8 to(?)6
+(ii) (6A25.AD)16 to (?)8
+(b) What do you mean by a bus standards? Explain at least one bus standard for each of system bus , memory bus and peripheral bus.
+6
+(c) Write the logic circuit and truth table of a full adder using minimum number of logic gates.
+8
+6. (a) Write the different steps that occur during a read or write operation a data byte from or to memory by the processor in a computer system. Explain clearly, how the appropriate location in main memory is identified.
+8
+(b) Distinguish between memory mapped I/O and I/O mapped I/O. Which is more versatile and why ? Give an example for each of the above scheme.
+8
+(c) What is the role of cache memory in a computer? Using a schematic diagram Explain how processor, cache, and main memory are interconnected.
+4
+7. (a) What is the difference between system software and application software for a multiuser system?
+6
+(b) Write the merit and demerit of an interpreter as compared to that of a complier? Give examples: programming languages that are interpreted and those that are complied.
+6
+(c) What is a device drive? Briefly explain its role.
+4
+(d) What do you mean by dynamic memory allocation? Explain your answer using an example.
+4
+8. (a) What is the kernel of an operating system? How the kernel of an operating system different from the shell? Explain the important components of the kernel of an operating system.
+8
+(b) What are the different types of interrupts in a computer system? Explain how prioritization of interrupts is a achieved.
+8
+(c) Discuss a scheduling algorithm used by a job scheduler in OS.
+4
+Group C
+9. Distinguish between the following:
+10x2
+(i) High level language and assembly language
+(ii) Flow chart and Pseudo code
+(iii) Information system and data management system
+(iv) Ethernet and fiber optic cable
+(v) TCP and UDP
+(vi) Complier and cross- compiler
+(vii) D-Flip Flop and T- Flip Flop
+(viii) Hard disk and RAM
+(ix) UNIX and Windows
+(x) RAM and ROM
+
+Summer 2017
+COMPUTING AND INFORMATICS
+Group A
+1. (a) What are the control statements available in language C? Explain each of them with suitable examples
+(8)
+(b) Distinguish between Information system and a file system?
+(6)
+(c) Are array arguments in a function call passed by reference or value? Explain your answer using an example?
+(6)
+2. (a) Specify by schematic as well as description of the following network topology:
+(3x4)
+(i) Mesh topology
+(ii) Star Topology
+(iii)Ring Topology
+(iv) Bus Topology
+(b) Write a brief about each of the following:
+(4x2)
+(i) ATM
+(ii) Cross Talk
+(iii)FTP
+(iv) TCP/IP
+3. (a) What is DBMS? What are different types of DBMS? Compare different types of DBMS?
+(10)
+(b) What is client server technology? What are their advantages and disadvantages? Discuss them briefly?
+(10)
+4. (a) A class has 50 students; Each student has a name upto 25 characters and roll number integers. Each student appears in an examination of 100 marks. The name of student who have scored more than class average need to be printed?
+(5+5)
+(i) Draw a flow chart for the problem?
+(ii) Write C++ code for solving the problem The code should be adequately documented?
+(b) What is a relational database management system?
+(5)
+(c) Why data in an RDBMS need to be normalized?
+(5)
+Group B
+5. (a) What is Virtual memory? What are the necessary layers of memory hierarchy that helps to create the virtual memory? How paged segment memory management feature of an operating system is utilizes those layers to implement the virtual memory?
+(10)
+(b) Distinguish between a text file and a binary file?
+(5)
+(c) What is modem and its importance in data communication?
+(5)
+6. (a) What is multiplexing? Distinguish between frequency division and time division multiplexing.
+(6)
+(b) Describe the working principle of a Laser printer.
+(6)
+(c) How does the wordlength of a computer determine the architecture of its RAM? Also explain the role of the RAM in the working of a computer?
+(8)
+7. (a) Differentiate between compilers, assemblers and translator. Explain their working and the situations where each is useful.
+(10)
+(b) What are the functions of an operating system?. Difference between multiprogramming and multiprocessing.which OS are single user and multi users? Give example for each.
+(10)
+8. (a) Why are NAND and NOR gate called universal gates?
+(6)
+(b) What is EPROM? How is it different from PROM?
+(6)
+(c) Design a full adder using universal logic gates?
+(8)
+Group C
+9. Write short notes on:?
+5x4
+a. Object Oriented Programming
+b. Management information System
+c. Simple network management protocol (SNMP).
+d. Flip-flops
+e. Central processing units.
+
+Winter 2016
+COMPUTING AND INFORMATICS
+Time: Three hours
+Maximum Marks : 100
+Group A
+1. (a) Write a program in C to read an integer, then display the value of that integer in decimal.
+(7)
+(b) Write a program in C to count even numbers between 1 and 200 and print their sum.
+(7)
+(c) Write a program in C to calculate simple interest and compound interest.
+(6)
+2. (a) Write a program in C to enter a number and then calculate the sum of its digits.
+(7)
+(b) Write a program in C to calculate GCD of two number.
+(7)
+(c) Write a program in C to print the reverse of the enter number.
+(6)
+3. (a) Draw a flow chart for printing the sum of those numbers divisible 5 between 1 and 100.
+(6)
+(b) Write a program in C to print the position of the smallest numbers using arrays.
+(7)
+(c) Write a program in C to calculate area of a triangle using function.
+(7)
+4. Write short notes on:
+5*4
+(a) TCP/IP
+(b) Office Automation
+(c) Database management technology
+(d) Information resource management.
+Group B
+5. Answer the following:
+4*5
+(a) Find the hexadecimal equivalent of (41819.5625)10*
+(b) Find the octal equivalent of (D6C1)16*
+(c) Find the binary equivalent of (37.8125)10*
+(d) Find the binary equivalent of (727)8*
+(e) What do you understand by the acronym MOSFET and list the purpose of logic gate in MOSFET.
+6. Answer the following:
+4*5
+(a) List the purpose of data entry machine.
+(b) Explain how an optical scanner works.
+(c) Explain the operation of a flip- flop.
+(d) List the characteristic of a memory cell.
+(e) Explain how data is organized in a hard disk.
+7. (a) List the features that are necessary in a high level language.
+(5)
+(b) What do you understand by lexical analysis?
+(5)
+(c) Compare and contrast between compiler and translator.
+(5)
+(d) What do understand by simulation? Is simulation system software? Justify.
+(5)
+8. (a) List the objectives of Windows OS.
+(5)
+(b) What do you understand by UNIX pipes?
+(5)
+(c) What is micro Kernel?
+(5)
+(d) What are the functions of BIOS in PCs?
+(5)
+Group C
+9. Answer the following :
+10*2
+(i) BIOS stored in --------.
+(ii) Which operator produces the 1's complement of the given binary value ?
+(iii) A loop that always satisfies the test condition is known as ----------.
+(iv) The default storage class of a local variable is ----------.
+(v) If an array is declared as double arr[50], how many elements can it hold ?
+(vi) Pointer to pointer stores -------.
+(vii) Give one example of utility software.
+(viii) A 2.5-inch diameter disk pack has 6 plates, 512 bytes per sector, 256 sectors, 5268 tracks
+per surface . What is the capacity of the disk in terms of Giga bytes?
+(ix) Write the equivalent Boolean statement for (A+B). (A+C) = ?
+
+SUMMER 2016
+COMPUTING AND INFORMATICS
+(AN 203/AD 303)
+Group A
+1. (a) Illustrate the usage of union, structure and enum in C.
+(9M)
+(b) Draw the flow-chart for 'while' and 'Do-while' control statements in C.
+(6M)
+(c) Design a flow-chart to determine whether a given input string is a palindrome or not.
+(5M)
+2. (a) Write a C program to read an integer 'N' and print the equivalent number of asterisks of each digit in a line. For example, if N is 325, then the following output should be produced:
+***
+**
+*****
+(10M)
+(b) Distinguish between recursive and non-recursive procedures. Develop a recursive procedure for finding the factorial of a given integer. Graphically show the recursive calls for your procedure for finding 5!
+(10M)
+3. (a) Illustrate call-by-value and call-by-reference used to pass parameters during function calls in C.
+(10M)
+(b) Develop a function in C that would compute the two roots of a quadratic equation of the form ax 2 + bx + c = 0. Show how this function will be called from Main() program.
+(10M)
+4. (a) Briefly explain client-server technology and list advantages and disadvantages.
+(10M)
+(b) Explain the function of different layers of OSI reference model.
+(10M)
+(c) Write the importance of modems in data communication.
+(4M)
+Group B
+5. (a) Convert the following numbers into appropriate base as directed:
+(6M)
+(i) (457.66) 10 = (?) 2
+(ii) (638.12) 10 = (?) 8
+(iii) (10110101011) 2 = (?) 16
+(b) Write the truth table, Boolean expression and the logic circuit diagram of a full adder.
+(8M)
+(c) Draw logic diagrams for the following:
+(6M)
+(i) EX-OR
+(ii) NOR and
+(iii) AND.
+6. (a) What are the disadvantages of using an S-R flip-flop? Explain how J-K flip-flop overcomes these issues. Draw the basic block structure and the truth table of a J-K flip-flop.
+(10M)
+(b) Explain the secondary storage devices used in modern day computing.
+(6M)
+(c) Explain the hierarchy of memory as accessed by the CPU.
+(4M)
+7. (a) With appropriate examples, bring out the difference between system software and application software.
+(4M)
+(b) Contrast the difference between a complier and an interpreter. Explain the advantages and disadvantages of a compiler language and an interpreted language.
+(10M)
+(c) Briefly explain a logic circuit that can store 1 bit data.
+(5M)
+8. (a) Describe the major functions of an operating system.
+(10M)
+(b) Explain the file systems of Unix and Windows. Highlight the major differences between these two file systems.
+(10M)
+Group C
+9. (a) Briefly answer the following:
+(20M)
+(i)Define a multi-user operating system. Give two examples for the same.
+(ii)What is the primary difference between procedure-oriented programming language and object-oriented programming language?
+(iii) Why is a cache memory needed?
+(iv)What is a repeater and on which layer does it work?
+(v)Why do we need normalization in data management?
+(vi)Define access time and seek time of a hard disk.
+(vii) What is a null pointer? Give one example use of a null pointer.
+(viii) Define address bus and data bus, and explain their roles in CPU-memory communication.
+(ix)Why is a D flip-flop called delay flip-flop?
+(x)What is virtual memory and why is it necessary?
+
+WINTER 2015
+COMPUTING AND INFORMATICS
+(AN 203/AD 303)
+Group A
+1. (a) Explain the use of flow charts, algorithms and programs for solving a problem in computers.
+(6M)
+(b) What are the different control statements in language C++? Illustrate the execution of a loop with the help of an example.
+(6M)
+(c) Design a flow chart and write a program in C++ to find the sum of the following series:
+S = 1+x^2 /2+x^3 /3+x^4 /4+......+x^n /n
+(8M)
+2. (a) How is the structure in C different from union? Explain the examples.
+(6M)
+(b) Discuss the use of pointers in C++. How can the elements of an array accessed using pointers? Explain with an example.
+(6M)
+(c) Consider that 100 numbers are stored in an array. Write a program in C or C++ to find the sum of all odd numbers in the array.
+(8M)
+3. (a) Write a program in C or C++ to check whether a given string is palindrome or not?
+(7M)
+(b) What are the logical operations in C or C++? Explain each of them with appropriate examples.
+(7M)
+(c) What is MIS? How is MIS different from a decision support system?
+(6M)
+4. (a) Define DBMS. Write the role of DBA in DBMS.
+(7M)
+(b) Draw two popular network topologies. Discuss their advantages as well as disadvantages.
+(7M)
+(c) Differentiate (using a table) between TCP/IP protocol stack and OSI/ISO reference model.
+(6M)
+Group B
+5. (a) Draw the basic block diagram of the von Newmann stored program computer. Explain the working of each of the blocks in the diagram with appropriate examples.
+(8M)
+(b) Convert the following numbers as directed:
+(6M)
+(i) (253.65) 10 = (?) 2
+(ii) (325.62) 8 = (?) 2
+(c) Write the truth table. Boolean expression and the logic circuit diagram of a half adder.
+(6M)
+6. (a) What is a flip-flop? Write the truth tables for different types of flip-flops.
+(7M)
+(b) What do you mean by a master-slave flip-flop? Explain your answer with a proper diagram.
+(7M)
+(c) What are the advantages of the hierarchical memory system? Explain your answer with the help of a schematic diagram.
+(6M)
+7. (a) What is an assembler? How is assembler different from a compiler? Explain the examples.
+(7M)
+(b) What is a loader? How is it different from a linker? Differentiate between source code, object code and executable code.
+(7M)
+(c) What is macro? How are macros and pseudo-ops used in a program? Explain with an example.
+(6M)
+8. (a) What is the role of an operating system in a computer? How is kernel mode different from the user mode? Illustrate with the help of a diagram.
+(7M)
+(b) What are the different scheduling criteria? Explain two scheduling policies and compare them using scheduling criteria.
+(7M)
+(c) Explain important features of the file management system for Linux and Windows.
+(6M)
+Group C
+9. Choose the correct answer for the following:
+(20M)
+(i)Which one of the following is not a part of a personal computer?
+(a) CPU
+(b) Hard disk
+(c) CD-ROM drive
+(d) Network interface card
+(e) Router
+(ii)Which is the equivalent decimal number for binary number (102.111) 2 ?
+(a) 6.7
+(b) 5.87
+(c) 5.75
+(d) 5.875
+(e) 7.502
+(iii) What is the output of two-input NAND and NOR gates when both inputs are the same?
+(iv)Write the Boolean expression and truth table for EX-NOR gate.
+(v)Why is RAM called a Volatile memory? What is the size of RAM of a modern desktop computer?
+(vi)What problems may occur, if the database tables are not normalized?
+(vii)Give an example of C program segment in which a = C++ and a = ++C cannot be used interchangeably and produce different results.
+(viii) What is the difference between a page fault and a cache miss?
+(ix)What do you meant by a device driver? What is it role?
+(x)Would any problems be faced by the users of a computer, if the operating system of the computer does not support virtual memory scheme? Briefly explain your answer.
+
+SUMMER 2015
+COMPUTING AND INFORMATICS
+(AN 203/AD 303)
+Group A
+1. (a) Write a "C" program to calculate the mean and standard deviation of an array of 100 integer values. The array elements are to be read from the keyboard. Write function to calculate standard deviation and mean.
+(10M)
+(b) A class of n students takes an annual examination in m objects. Write a C program to read the marks obtained by each student in various subjects and to compute and print the total marks obtained by each of them.
+(10M)
+2. (a) Write an algorithm to check a given number is prime or not. Draw the flow chart for this algorithm.
+(8M)
+(b) What are the pointers and structures? Explain their use with suitable examples.
+(6M)
+(c) What is management information system (MIS)? Give at least two relative MIS examples.
+(6M)
+3. (a) What is wireless LAN? Explain why it is needed and how it is used?
+(7M)
+(b) Explain the architecture of an e-mail system. What are the standard protocols used in such a system?
+(7M)
+(c) Briefly explain the mechanisms by which TCP is able to provide reliable transmission service.
+(6M)
+4. (a) Discuss the main characteristics of a database and how it differs from traditional file systems.
+(7M)
+(b) What are the responsibilities of the database administrators and the database designers?
+(7M)
+(c) Briefly explain the 3-tier client server architecture. Clearly mention the role and services provided by each layer.
+(6M)
+Group B
+5. (a) Convert the following numbers:
+(i)(723) 8 = (?) 2
+(2M)
+(ii)(10001010101) 2 = (?) 16
+(2M)
+(iii)(285.48) 10 = (?) 16
+(4M)
+(iv)(0.8125) 10 = (?) 2
+(2M)
+(b) Compare and contrast between serial access memory with random access memory.
+(5M)
+(c) Define the terms seek time and latency time of hard disk. How can each be reduced to small values?
+(S2015 5M)
+6. (a) Design a logic circuit to add two positive numbers that are each 2 bits long.
+(6M)
+(b) Using theorems of Boolean algebra, prove the following:
+(8M)
+(i)X.Y + X.Z + Y.Z = X.Y + X .Y.Z + X.Z
+(ii)(X.Y).( X . Z + Z).(X. Z + Y ) = 0
+(c) What is a scripting language? In what way it is different from application or applicative language? Name two scripting languages.
+(6M)
+7. (a) Describe UNIX pipes and filters with examples.
+(6M)
+(b) What is time sharing operating system? How is it different from multitasking operating system?
+(7M)
+(c) Briefly explain the UNIX file system. What is an i-node.
+(7M)
+8. (a) Distinguish among the following classes of computers. Super-computers, mainframe computer, mini computer, personal computer and embedded computer.
+(8M)
+(b) Explain the working of optical character, video graphic terminal and dot matrix printer.
+(6M)
+(c) Write the purpose of following DOS commands:
+(6M)
+(i) TYPE
+(ii) REN
+(iii) RD
+(iv) PATH
+(v) ATTRB
+(vi) FORMAT
+Group C
+9. Answer the following:
+(2 x 10M)
+(i) What is Moor's Law?
+(ii) Represent the decimal number 12 as a 2s complement number.
+(iii) A 2.5 inch diameter disk pack has six plates, 512 bytes per sector, 256 sectors, 5268 tracks per surface. What is the capacity of disk and density of disk?
+(iv) How many different digits are there in a octal system? List them.
+(v) What is the role of a linker?
+(vi) What should be the output for the following code segment in C?
+int main ( )
+{
+int a = 2, b = 3;
+Print f("%d",++a - b);
+Return 0
+}
+(vii) Identify two reasons as to why data redundancy in a database considered to be harmful.
+(viii) Suppose the binary encoding of a decimal number is n bits long. What would be the length of the octal encoding of the number?
+(ix) Write any two categories of services provided by an operating system to the user.
+(x) Arrange the following types of storage elements in increasing order of access time;
+Hard disk, Cache memory, main memory and register.
+
+WINTER 2014
+COMPUTING AND INFORMATICS
+Time: Three Hours
+Maximum marks:100
+Group A
+1. (a) List five important differences between C and C++ languages.
+(5)
+(b) Explain 'call by value' and 'call by reference' in C language with the help of examples.
+(8)
+(c)Write a function in C,which would return two roots of a quadratic equation of the form ax 2 +bx+c=0.Assume that valid values of the coefficients a,b and c are given as input.
+(7)
+2. (a)Show the difference between 'While Loop' and 'Do while Loop' with the help of a flow control diagram.
+(8)
+(b)What are pointers and why do we need them? Briefly explain?
+(4)
+(c)Write a C program using pointers to read in an array of integer numbers and print its elements in the reverse order.
+(8)
+3.(a)What are two required characteristics of a good algoritham?
+(2+2)
+(b)Draw a flow-chart for finding maximum and minimum elements in a set of n elements.
+(6)
+(c)Write a procedure to find the square root of an integer number up to the first decimal place. For example, square root of 21 up to first decimal place is 5.5. Implement your procedure using C.
+(10)
+4.(a) Briefly explain the decision-making process using management information systems. Illustrate your answer with suitable examples.
+(8)
+(b)Bring out the differences between LAN and WAN.
+(4)
+(c)Write a short note on electronics Data Interchange (EDI)
+(8)
+Group B
+5. (a) Give a brief account of the different generations of computers.
+(10)
+(b) Draw a labelled block diagram showing the important hardware blocks in a processor and clearly explain the role of each block during the execution of an instruction.
+(10)
+6. (a) Construct the truth tables for NAND and NOR gates.
+(6)
+(b) Implement the following:
+(7+7)
+(i)Y=(A+C)(A+D')(A+B+C') USING nor GATES
+(ii)Y=(AB+BC)C using NAND gates
+7. (a) Draw the block diagram and briefly explain the components of a computer
+(6)
+(b)Describe the memory hierarchy in a computer.
+(7)
+(c)Explain, with a truth table,the working of R-S flipflop.
+(7)
+8.(a) Bring out the differences between system software and application software with suitable examples.
+(10)
+(b)Explain how file management is achieved in UNIX operating system.
+(10)
+Group C
+9. Answer the following:
+(10x2)
+(i) Write a C program to find the sum and product of n numbers.
+(ii) Illustrate function overloading in c++ with a simple example.
+(iii) List two differences between a structure and an array.
+(iv) Why do we need virtual memory?Write any one important reason.
+(v) TCP and IP protocols operate at which ISO/OSI layers?
+(vi) Convert (101.101) 2 to decimal.
+(vii) What are two important advantages of gray codes?
+(viii) Draw the circuit of J-K flip-flop using NAND gate.
+(ix) List any two major functions carried out by an operating system
+(x) Differentiate between a compiler and an interpreter
+
+Summer 2014
+COMPUTING AND INFORMATICS
+Group A
+1. a) Design algorithm to find the sum of the following series:
+[Figure_Here]Represent it using a flow chat
+(10)
+b) Write a program in C or C++ for your algorithm of previous part above.
+(10)
+2. a) What is the difference between low-level and high level computer language? Write their relative advantages and disadvantages.
+(5)
+b) What are the control statements available in language C? Explain each f it with suitable examples.
+(5)
+c) Discuss different parameters passing mechanism supported in C. Which one of these is Considered effective and why?
+(5)
+d) Explain using suitable code snippets, how multidimensional array can be passes as arguments to a C function.
+(5)
+3. a) What is DMBS? Discuss different database models with the help of suitable diagrams. Which database model is popular and why?
+(10)
+b) Write C code segment to explain how memory can dynamically be allowed for a two-dimensional integer array of size 2x100. Write code segment to explain how the individual elements of the dynamically allocated two dimensional array be accessed.
+(5)
+c) Write the important functions of each layer in TCP/IP protocol suite.
+(5)
+4. a) Explain briefly the role of SMTP,HTTP and FTP with respect to client server architecture. At which ISO/OSI layer operate?
+(10)
+b) Briefly explain how TCP provides reliable communication?
+(5)
+c) What do you mean by address arithmetic in C ? Using suitable code fragments, explain how the elements of an integer array and a floating point array can be accessed using address arithmetic.
+(5)
+GROUP B
+5. a) What are the choice of different storage devices available in a computer system? Arrange them in increasing order of their retrieval and storage size.
+(10)
+b) How is SRAM different from DRAM? Which one is faster? Which one is more expensive? explain your answer.
+(5)
+c) What do you mean by disk cache? How is it different from cache memory used between processor and main memory of a computer? What is its role?
+(5)
+6. a) Differentiate between user and kernel space in an operating system. How are they different from physical address space? Explain with examples.
+(5)
+b) What is a page fault? Explain what causes a page fault in a virtual memory system and how is it handled.
+(5)
+c) Distinguish between a page and a page frame in a virtual memory system.
+(5)
+d) Explain how virtual address is translated into physical address using a suitable block diagram.
+(5)
+7. a) Write an algorithm to convert the decimal numbers into binary numbers. Explain your algorithm.
+(5)
+b) Write an algorithm to convert a binary number to an octal number. Explain your answer.
+(5)
+c) What do you mean by universal logic gates? Design a full adder using a universal logic gate.
+(8)
+d)Write at least two differences between sequential and combinational circuits.
+(2)
+8. a) Identify at least five characteristics that distinguish an application software from a system software.
+(5x2)
+b) Draw a block diagram to show the important hardware block in processor. Briefly explain their roles.
+(5)
+c) Explain how processor, memory and hard disk are interconnected with the help of a block diagram.
+(5)
+GROUP C
+9. Answer the following:
+(10x2)
+(i) In C syntax, define a class named employee.It should contain name of the employee (string of 25 characters) and employee identification (integer).
+(ii) In which situation serial search is better than binary search?Give an example situation.
+(iii) At present what is the physical medium used in a wired Ethernet LAN?
+(iv) Show the symbol and Boolean expression for logic gate EX-NOR.
+(v) What is an ADT? Is a C++ class an Adt ?
+(vi)Give two examples of computer languages which are interpreted instead of compiled.
+(vii) TCP and IP operate at which layers of ISO/OSI Protocol suite?
+(ix) Draw a logic circuit using NAND gates which can store 1 bit of information.
+(x) Write two advantages of client-server software over a monolithic software.
+
+Winter 2013
+COMPUTING AND INFORMATICS
+GROUP A
+1. (a) What is the difference between iteration and recursion? What are their relative advantages? Write a program to find the value of n m using recursion.
+2 + 2+ 4
+(b) Write a program to convert uppercase string to lowercase string without using strlwr( ).
+5
+(c) How does an inline function differ from a pre-processor macro? Write a program to illustrate the use of object arrays.
+2+5
+2. (a) What is a destructor? When is it invoked? Write a program to illustrate that the destructor has been invoked implicitly by the complier.
+6
+(b) What is the difference between array of integer pointers and pointer to an integer array? Discus with a suitable example.
+5
+(c) Write a program to check whether a year is leap year or not. What do you understand by scope of a variable? What is a scope resolution Operator? Give an example.
+9
+3. (a) What is the difference between the following two # include directives:
+# include "abc.h"
+#include <abc.h>
+Write a program to carry out the following:
+4+4
+(i)To read a text file "INPUT.TXT"
+(ii)Print each word in the file.
+(b) What is the difference between array and linked list? Create a structure to specify data on students given below:
+Roll number, Name, Department, Course, Year of joining. Assume that there are not more than 300 students in the college.
+2 + 10
+(i) Write a function to print names of all students who joined in a particular year.
+(ii) Write a function to print the data on a student whose roll number is given.
+4. (a)Write a program for conversion of a decimal number to binary number.
+5
+(b)What is the difference between call by value and call by reference? Discuss with a suitable example.
+5
+(C)Write a C function to pick the largest number from an 4 x 4 matrix.
+5
+(d)What do you mean by a virtual function and explain its use with suitable example program.
+5
+Group B
+5. (a) What to you understand by normalization of a database? What is the advantage of normalization?
+7
+(b)Prove, Using Boolean algebra, that
+(X+Y')(X+Z')=(X+Y' +Z)(X+Y'+Z)(X+Y+Z)
+6
+(c)Draw the logic circuit for the following expression using NAND gate only :
+((XY'Z')'(XY'Z))'.
+7
+6. (a) Write working principle of a CRT monitor. What is the difference between raster scan and vector scan?
+3+3
+(b) What is a batch file? Create a batch file for the following:
+4 + 4
+(i) To display the current date and time
+(ii) List the files in the working directory with extension of .txt.
+(c)Explain, in sequence, all the tasks performed at the time of booting up.
+6
+7. (a) Briefly describe client-server model and its application.
+5
+(b) What is the role of a modem? Discuss the concept of multiplexing and demultiplexing?
+8
+(c) What is a network topology? Discuss two popular network topologies with their relative advantages and disadvantages.
+7
+8. (a) Briefly describe OSI model for computer networks.
+8
+(b) Describe the following networking components:
+4 x 3
+(i)Bridge
+(ii)Two layer switch
+(iii) Router
+(iv)Gateways.
+Group C
+9. Find the outputs:
+6 x 2
+(i) int a = 32768'
+Printf("%d".a): (Assume integer takes two bytes of memory).
+(ii) printf("%d",printf(abc"));
+(iii) int a [ ] ={1,3,2};
+printf("%d", (a[2]+2 [a]));
+(iv) int a=97;
+printf("%c",a);
+(v) int I =0;
+for (printf("A"), i<2;printf("C")){printf("B");i++;}
+(vi) int a = 5;
+printf("%d%d%d", a = = 2, a = 3, a >5);
+10. Answer in brief:
+4 x 2
+(i) What do you mean by "throughput" of an operating system?
+(ii) Identify at least one factor that makes Cache memory faster than main memory.
+(iii) What do you mean by word length of a computer?
+(iv) What is the difference between a complier and an interpreter?
+
+Summer 2013
+COMPUTING AND INFORMATICS
+Time : Three Hours
+Maximum Marks : 100
+Group A
+1. (a) Design an algorithm to count the number of non-zero digits in an integer. For example, for the number 42103, it should return 4. Represent your algorithm in the form of pseudo code and also in the form of a flow chart.
+10
+(b) Implement the algorithm you have designed for part (a) of this question using C language.
+10
+2. (a) What do you understand by command line argument? Write a C program that would take a string as its command line argument and display whether it is a palindrome or not.
+10
+(b) What do you understand by a block structured language? Is C a block structured Language? If yes, using an example, illustrate how a block can be defined in C.
+10
+3. (a) What do you understand by flow control in TCP/IP ? What is the purpose of flow Control? Briefly explain how flow control is achieved in TCP/IP.
+10
+(b) What is the management information system (MIS) ? Using a schematic Block diagram, discuss 3 tier architecture of an MIS. Clearly show the tier to Which a DBMS would belong.
+10
+4. (a) Briefly describe how does electronic mail exchange work. In particular, include Discussion on mail client, mail server, and the specific protocols used.
+10
+(b) What do you understand by address arithmetic in C? How can address arithmetic be used to print all the elements of the liner array?
+6
+(c) Are array arguments in a function call passed by reference or value? Explain your answer using an example.
+4
+Group B
+5. (a) Using a block diagram, explain the important parts of a computer and how they are interconnected.
+10
+(b) Explain the components of an input/output device. Briefly explain how does the Computer address an input/output device and how data transfer to/from the computer takes place. Include a suitable block diagram in your answer.
+10
+6. (a) What do you understand by file management? How is file management achieved by a popular operating system such as 'Unix. ? Explain your answer.
+10
+(b) What is a virtual memory operating system? Briefly explain how virtual memory Management is achieved by the operating system.
+10
+7. (a) Convert the following two binary numbers into Hex and Octal numbers : 01101010 And 01011011.
+10
+(b) Identify different functional and storage units of a CPU. Depict these using a block diagram and briefly explain their roles.
+10
+8. (a) What is a flip-flop? For what purpose it is used for? Explain how a flip-flop can be realized using NAND gates.
+10
+(b) What is an application software? Using suitable examples, briefly explain how an application software can invoke operating system services.
+5
+(c) Identify five main advancements achieved by window operating system over MS-DOS operating system.
+5
+Group C
+9. Answer the following brief :
+10 x 2
+(i) In C syntax, define a structure named Student. It should contain name of the student (sting of 20 characters) and roll number (integer)
+(ii) What is the maximum number of comparison operations required to search a given integer from an array of 800 linearly ordered integers using binary search?
+(iii) In C syntax, write a code snippet to open a file named marks. dat and print out all the marks (integer) stored in it. Assume that it contains only marks (integer) and no other data.
+(iv) Name a popular LAN protocol.
+(v) Write the truth table for a 1 - bit half adder.
+(vi) Explain method overloading in C++ using an example.
+(vii) How is a compiler different from a language translator?
+(viii) Write two important advantages of using DBMS as compared to using a file for storing data.
+(ix) Write two advantages of using client-server software over monolithic software.
+(x) Write two important ways in which a system software differs from an application software.
+
+Winter 2012
+COMPUTING AND INFORMATICS
+Time: 3 hours
+Maximum Marks: 100
+Group A
+1. (a) What do you mean by type conversion and typecasting? Explain with an example. Write a program in C to find the largest of three numbers using ternary operator. Write a program in C to sum the series 1/1 2 + 1/2 2 +...1/3 2 .
+3+3+4
+(b) Difference between formal parameters and actual parameters. Write a program to print the Fibonacci series using recursion.
+5
+(c) Write a program in c ++ to read marks of 10 students in the range of 0-100. Then make 10 groups : 0-10, 10-20, 20-30, etc. Count the number of values that falls in each group and display the result.
+5
+2. (a) What are genetic pointers? Explain with example.
+4
+(b) Using pointers, write a program in C to read and print a text. Also, count the number of Characters, words, and lines in the text.
+16
+3. (a) Write a program in C using an array of pointers to a structure to read and display the Data of a student (like Roll No, Name, Course Fee).
+8
+(b) What is an algorithm? Explain the key features of an algorithm. Explain the differences between time complexity and space complexity.
+1+3+3
+(c) Describe briefly various categories of algorithms. Write an algorithm to fine the largest of three numbers.
+3+2
+4. (a) Write a C ++ program to demonstrate how to call base class constructor in derived class.
+8
+(b) What do you mean by a virtual function? Explain its importance.
+6
+(c) Write a C ++ program to demonstrate the concept of virtual function.
+6
+Group B
+5. (a) (i) Find the hexadecimal equivalent of (0.3) 10 .
+4
+(ii) Find the octal equivalent of the decimal fraction 0.789.
+4
+(b) Simplify the following Boolean function in both sum-of-products and product-of-sums forms: F(A,B,C,D)=∑ (0,1,2,5,8,9,10)
+3+3
+(c) Write a truth table for full adder, Also, draw a logic diagram.
+3+3
+6. (a) Give differences between:
+4+4
+(i) RISC vs. CISC
+(ii) static RAM vs. dynamic RAM.
+(b) Write a zero-address instruction for the following: X= (A+B)*(C+D)
+6
+(c) Perform the arithmetic operations (+70) + (80) and (-70) + (-80) with binary numbers in signed-2s complement representation. Use eight bits to accommodate each number together with its sign. Show that overflow occurs in both cases that the last two carries are unequal and there is a sign reversal.
+6
+7. (a) Describe, with a neat block diagram, the concept of DMA controller.
+8
+(b) (i) How does MS-WINDOWS differ from MS-DOS.
+4
+(ii) What are various functions of kernel of UNIX OS?
+4
+(c) Why is BIOS stored in a ROM. What do you understand by the term 'throughput' of a computer system.
+2+2
+8. (a) Distinguish between internet, intranet and extranet.
+3 x 2
+(b) Explain TCP/IP with a neat diagram.
+6
+(c) Explain the following: Assembler, loader, linker and interpreter.
+4 x 2
+Group C
+9. Answer the following:
+10 x 2
+(a) State Moore's law.
+(b) What is the full form of ENIAC?
+(c) What is a Baud rate"
+(d) What would be the output of the following program:
+#define SQR(x) (X*X)
+main ( )
+{ int a,b =4;
+a= SQR (b+3);
+printf "\n
+%",a);}
+(e) Would the following code compile successfully? (Yes or no) What is the output?
+Main ( )
+{printf("%c",6[Hindustan]):}
+(f) What is NULL pointer?
+(g) What would be the output of the following program:
+main ( ) {char *str [ ] =
+{"Frogs", "Do","Not","Not","Die","They","Croak!"};
+printf("%d%d",sizeof(str[0]));}
+(h) What is the similarity between a structure, union and an enumeration?
+(i) What would be the output of the following program?
+Main ( ) { print ( "\n%%%"); }
+(j) What do the 'c' and 'v' in argc and argv stand for?
+
+SUMMER 2012
+Computing and Informatics
+Group A
+1. (a) Design an algorithm to convert a character of 32-bit 2s complement number into its decimal equivalent.
+(7)
+(b) Represent your algorithm arrived at Q.1 (a) in flow chart form.
+(5)
+(c) Write a C function that accepts a character sing of 32 characters representing a 2s compliment number and returns its decimal equivalent.
+(8)
+2. (a) What is the difference between a local and a global variable?
+(6)
+(b) What is a static variable?
+(6)
+(c)Write a C Function that would return an integer value indicating the total number of times it is called the first time is called it would return one second time two and so on.
+(8)
+3. (a) what do you understand by macro in C?
+(4)
+(b)What is the advantage of writing a processing step as a macro as compared to a function?
+(8)
+(c) Write a macro definition for determining the larger of two integers.
+(8)
+4. (a) Briefly explain the working of the CSMA/CD protocol At which ISO/OSI layer does it operate?
+(7)
+(b) Briefly explain the client -server technology. How is a client -server application developed?
+(7)
+(c) What is the difference a hub and a switch?
+(6)
+Group B
+5. (a) What is a process in the Unix operating system? How is a process created?
+(6)
+(b) What is Virtual memory? How does an operating system translate a Virtual address into a physical address?
+(8)
+(c) what is the difference between a volatile and a non-volatile memory? Explain the advantage and disadvantage of each memory.
+(6)
+6. (a) What is the role of control unit in a CPU? Explain the difference between micro programmed and hardwired control. Identify their relative advantages.
+(10)
+(b) What is an interrupts? Who generates interrupts? How are interrupts handled by an operating system?
+(10)
+7. (a) Briefly explain , by using suitable diagrams how various basic logic gates can be realized using NOT gate.
+(7)
+(b) What is a D Flip- Flop? By using an appropriate diagram, briefly explain how a shift register can be realized D flip-Flops ?
+(7)
+(c) Convert the following sum of product (SOP) expression in to product of sum (POS) expression : A B + C D
+(6)
+8. (a) Convert the following octal number in to binary equivalent : 735
+(6)
+(b) Convert the following hexadecimal number in to its octal equivalent : AFB8.
+(6)
+(c) How is a Floating point number represented in a computer?
+(8)
+Group C
+9. Answer the following in brief:
+10 x 2
+(i) To realize 8 M byte of memory ,how many chips of size 512 Kbytes are required ?
+(ii) When an instruction is under execution it should be in which register of the CPU?
+(iii) What would be the binary representation of the decimal value 0.25
+(iv) What is the full form of TCP?
+(v) What is the name of the Parameter passing mechanism that is used to pass an array as a parameter during a function call?
+(vi) Why is it necessary to normalize the database tables?
+(vii) What would be displayed when the following program is compiled and run?
+Main ( ) {
+float a = 0.7 ;
+if a ( a = = 0.7) print f ("Equal\n");
+else print f ("Not Equal\n");
+}
+(viii) Which protocol is involved when a mail client sends an email to its mail server?
+(ix) Why is redundancy a threat in DBMS?
+(x) What is the full form of CSMA/CD?
+
+WINTER 2011
+COMPUTING AND INFORMATICS
+Group A
+1. (a) What do you understand by structural programming?
+5
+(b) What is a function prototype? Why is it required?
+5
+(c) Using an example, show how a single dimensional array is passed to a function (your example should have both the function definition and the call statement).
+5
+(d) Using an example, show how two dimensional array is assed to a function (your example should have both the function definition and the call statement).
+5
+2. (a) Between recursion and iteration, which is more efficient? Why?
+5
+(b) Write a recursive function that would take as its parameters a single dimensional integer array and an integer value indicating the number of elements present in the array and would return the sum of numbers in the array.
+10
+(c) Declare a structure named student having name (10 characters), roll (integer), mark (float).
+5
+3. (a) What will be printed out by the following C program? Explain the reason behind your answer.
+#include<stdio.h>
+int a[] = {1,2,3,4,5,6,7,8,9,10}
+main ( ) {
+int i;
+for (i = 0 ; i< 10 ; i++)
+*(a+i) + = 1;
+printf ("%d\n",*(a+i));
+}
+10
+(b) Briefly explain how TCP/IP achieve error-free transmission of data.
+10
+4. (a) Explain the working of a e-mail system, and the specific protocols that it uses.
+10
+(b) What do you understand by a client server system ? Give an example of a client-server system. What are the advantages of a client server system as compared to a monolithic system?
+10
+Group B
+5. (a) Convert 211.25 in decimal to binary.
+5
+(b) Convert 211.25 in decimal to octal.
+5
+(c) Draw the truth table for the Boolean expression a'b + b'c + ac'.
+5
+(d) What is a cache memory? What is its role in computer operation?
+5
+6. (a) Using an appropriate block diagram , explain how CPU, main memory , cache memory , secondary memory , and the input/output units are interconnected in a computer.
+10
+(b) Draw the truth table of a 2 to 4 decoder, and realize the decoder circuit using AND and NOT gates.
+10
+7. (a)Explain the principal differences between a system software and an application software.
+5
+(b) What is a virtual memory operating system?
+5
+(c) Explain, using a suitable diagram, how the virtual address is trapped as a physical address.
+10
+8. (a) What is meant by a process in an operating system ?
+5
+(b) What is meant by a time-shared operating system?
+5
+(c) What is meant by a system call? Give an example of a system call. How is a system call different from a function call?
+10
+Group C
+9. Answer the following;
+10 x 2
+(i) How much time will be required to transmit 100K bits of data over a 100Mbps line?
+(ii) What does 'scope' of a variable mean?
+(iii) What will be the output of the following C program?
+main ( ) {
+int i = 0;
+for (; ; ;) printf (%d \n", i++);
+(iv) What will be printed by the following program segment ?
+int a ;
+a = 2 + 5 / 20 ∗ 30 - 1;
+printf ("Value of a = %d\n",a);
+(v) Which of the following best describes the internet?
+(a) LAN
+(b) MAN
+(c) WAN
+(d) Ethernet
+(vi) Consider the following function in C :
+void swap (int a, int b) {
+int temp ;
+temp = a ;
+a = b ;
+b = temp ;
+}
+Correct the function (if necessary) so that a call to the function, eg., swap (&x, & y)
+would interchange the values of x and y.
+(vii) Which one of the following statements is false?
+(a) Compilers can detect runtime errors.
+(b) Some Unix versions can run on laptops.
+(c) Mouse is connected to the computer through serial interface.
+(d) Executable files contain machine code.
+(viii) Which one of the following can be considered as output device of a computer?
+(a) VDU
+(b) Mouse
+(c) Keyboard
+(d) Modem.
+(ix) Which one of the following statements is false?
+(a) Main memory can be accessed faster than secondary memory.
+(b) Main memory is a permanent storage memory.
+(c) Cache memory is a volatile memory.
+(d) Hard disk is a secondary memory.
+(x) What is the full form of HTML?
+
+SUMMER 2011
+COMPUTING AND INFORMATICS
+Group A
+1. (a) What is an algorithm and a flow-chart? Taking a simple problem as an example, give an algorithm for that problem and also its corresponding flow chart.
+7
+(b) Illustrate call-by-value and call-by-reference with suitable examples.
+7
+(c) Write a C++ program to read 100 numbers from the user and output their sum.
+6
+2. (a) What is function overloading in C ++ ? Explain with a suitable example.
+6
+(b) What is a constructor? Explain its use using an example.
+6
+(c) What is a recursive function? Write a recursive function, factorial ( ), for computation of factorial of an integer. Also, show execution of fact (3).
+8
+3. (a) Write a program to sort an array of 100 integral numbers.
+10
+(b) Discuss the functionalities of different TCP/IP layers.
+10
+4. (a) What do you mean by office automation ? Explain the primary activities relating to office automation.
+8
+( b) Explain the stages of compilation for a C compiler.
+8
+(c) What is an interpreter ?
+4
+Group B
+5. (a) Show that A + A'B = A + B.
+6
+(b) What is an operating system? Discuss about different types of operating systems.
+6
+(c) Explain the working of NAND latch with a diagram.
+8
+6. (a) Explain the purpose of following DOS commands:
+C: DIR MD CD COPY Del
+6 x 2
+(b) Explain the concepts of pipelines and filters in UNIX operating system with suitable examples.
+4+4
+7. (a) Explain the difference between primary and secondary computer memory.
+4
+(b) Discuss briefly the role of secondary storage.
+4
+(c) How does the CPU execute program instructions? Explain using a block diagram.
+12
+8. (a) Compare a system software and an application software. Give examples of each.
+6
+(b) Draw truth table for the Boolean function f(A,B,C) = A ⊕ B ⊕ C
+6
+(c) Explain the organization and working of a hard disk.
+8
+Group C
+9. Answer the following:
+10 x 2
+(i) What is the purpose of exit ( ) command?
+(ii) What is a global variable? How long does a global variable remain alive?
+(iii) What do you mean by a pointer variable in C programming? Give an example.
+(iv) Explain how one can recall a previously used DOS command by pressing some key.
+(v) What happens when the following command is used?
+chmod u = rwx,go= r-x foo
+(vi) Transform (37.24) 8 into its equivalent binary form.
+(vii) What do you mean by secondary memory? Give an example.
+(viii) What is electronic data interchange (EDI) ? Give one of its applications.
+(ix) List different types of computer networks.
+(x) What is sequential logic ? Give an example.
+
+WINTER 2010
+COMPUTING AND INFORMATICS
+Group A
+1. (a) How are functions defined in C and what are the different ways in which arguments are passed to a function?
+(5)
+(b) Write a non-recursive function to calculate the factorial of a given integer n.
+(5)
+(c) Write a recursive function to calculate the factorial of a given integer n.
+(5)
+(d) Write a C program to find the sum of the series up to n terms. Assume x is a floating point number.
+1 + x + x^2/2! + x^3/3! + .... + x^n/n!
+(5)
+2. (a) Write an algorithm to triangularization of n linear equations in n upknowns.
+(6)
+(b) What is ARP? How it differ from IP? At what layer of OSI model does it work?
+(7)
+(c) Construct an Entity-Relationship diagram for a car insurance company whose each customer more or less has its own car. Each car has associated with it zero to any number of recorded accidents.
+(7)
+3. (a) List four significant differences between a file processing system and a DBMS.
+(6)
+(b) Explain the difference between the logical and physical data independence.
+(6)
+(c) Write a C program to determine how much money will accumulated in a bank after n years, if a known amount, p, is deposited initially and the amount collects interest at a rate of r percent per year compounded annually.
+(8)
+4. (a) Write a C++ program to print the universal time and standard time using a time class.
+(7)
+(b) Write a C++ program to overload the stream insertion operator (<<) to handle data of a user defined-type, which is a phone number of the form: area-code exchange and number.
+(7)
+(c) List six major steps that one can take in setting up a database for a particular enterprise.
+(6)
+Group B
+5. (a) Write four major responsibilities of an operating system. Give essential properties of MS-DOS.
+(7)
+(b) What is the difference between a compiler and an interpreter? Compare the relative advantages of a compiled language and an interpreted language.
+(6)
+(c) What is a file system and an i-node? How does the operating system protect files of one user from other users?
+(7)
+6. (a) Realize the digital circuit for the Boolean function z = b.c + a.b + a.c by using AND and OR gates.
+(6)
+(b) Convert the following binary numbers to their equivalent hexadecimal numbers:
+(3+3)
+(i) (111100110. 101011) 2
+(ii) (111010100011 . 01010110) 2
+(c) Find the values of the following binary arithmetic operations:
+(4+4)
+(i) Divide ( 100101100) 2 by (1010) 2
+(ii) Multiply (11101) 2 by (11011) 2
+7. (a) Find the values of two variables A, B, C, and D by solving the set of simultaneous equations:
+A' + AB = 0
+AB = AC
+AB + AC' + CD = CD
+where, x' represents the complement of x.
+(7)
+(b) Given a regular expression a* (a/b) aa, construct an equivalent non-deterministic finite automata (NFA).
+(7)
+(c) Simplify the following algebraic equations:
+(3 + 3)
+(i) (x' + xyz') + (x' + xyz') (x+ x'y'z')
+(ii) xy + wxyz' + x'y.
+8. (a) What are the components of a computer? Draw the Von-Neumann architecture of a computer, and explain its working.
+(7)
+(b) Draw the block diagram of a SR flip-flop and implement it by using crossed coupled NOR or NAND gates.
+(7)
+(a) How many bits are required to represent the following decimal numbers as unsigned/binary integers: (i) 384, (ii) 147.
+(3+3)
+Group C
+9. Answer the following:
+(10x2)
+(i) How many RAM chips of size 256 KB are required to realize a 1 GB memory?
+(ii) List the basic difference between DOS and Unix.
+(iii) List two disadvantages of a database system as compared to a file-based system.
+(iv) What information does a super block of a file system contain?
+(v) Give the hexadecimal equivalent of the following binary number : (101101.0101) 2
+(vi) Show that a + (a . b) = a
+(vii) Explain the following statement of C:
+int (* x) [20] ;
+(viii)What does MIME stands for and where is it used?
+(ix) Two PCs are located in adjacent rooms and a third PC is in a building 300 yards away. Explain how you could connect three PCs to create a single network.
+(x) What is the output of the following C++ statement?
+Cout<<fixed<<left<<set precision(1)<<setw(5)<<333.546372
+1 GB = 2^30
+
+SUMMER 2010
+COMPUTING AND INFORMATICS
+Group A
+1. (a) Write a C program to define a global integer array named Arr of size 100. Write a function named sum-iter to iteratively sum all the elements of Arr and return the result.
+5
+(b) Write a recursive routine name sum-rec to sum all the elements of Arr and return the result
+5
+(c) Between the iterative routine sum-iter and recursive routine sum-rec, which is more efficient and why?
+5
+(d) What do you understand by 'scope' of a variable? Explain the scoping rule when a global variable and a local variable in a function have the same name.
+5
+2. (a) Write the flow-chart representation of an algorithm named binary-search, that takes a sorted array, size of the array, and an element to search as argument and performs a binary search for the element in the array. If the element is found in the array, it should return the position at which it occurs, otherwise it should return - 1.
+7
+(b) Write a C function to implement the binary search algorithm of part (a).
+7
+(c) What are the worst case, best case and average case number of comparisons to search an element using binary-search algorithm.
+6
+3. (a) In C++ , define a class point to store to floating point numbers x and y that would represent x and y co-ordinates of a point in a cartesian co-ordinate system. Define method 'create' to initialize the x and y attributes with given values , and 'print' to print the x and y attribute values.
+5
+(b) Overload 'create' method to initialize x and y attributes with default value 0.
+5
+(c) Overload the '+' operator to perform addition operation of two points.
+5
+(d) Derive a 'line' class from 'point' class. Remember that a line is defined by its two end points.
+5
+4. (a) What is a LAN? Explain a LAN protocol.
+6
+(b) What are the functions of TCP and IP?
+6
+(c) How does TCP ensure reliable transfer of packets?
+8
+Group B
+5. (a) An operating system is often defined as a resource manager. Explain which resources of a computer it manages and how it manages.
+7
+(b) What is a time-shared operating system? Draw a labeled task state transition diagram for a time-shared operating system and, briefly explain it.
+7
+(c) Explain the important aspects in which the Windows operating system enhances the MS-DOS operating system.
+6
+6. (a) Write the truth table for the Boolean function Z = (a + b).c.
+5
+(b) Draw the logic circuit for the Boolean function of part (a) above.
+5
+(c) Distinguish between a combinational logic circuit and a sequential circuit.
+5
+(d) Draw the logic circuit of a J-K flip-flop.
+5
+7. (a) Convert the following binary numbers into hexadecimal numbers :
+3+3
+101101.0101
+1010.0111
+(b) What is an 'interrupt' in a computer system? How is an interrupt handled?
+6
+(c) What are linkers and loaders? What functions do they perform?
+8
+8. (a) Briefly explain the UNIX file system.
+7
+(b) Using a block diagram, explain how multiple input/ output devices can be connected to the computer bus. How can the CPU address a desired device using your scheme?
+6
+(d) What is the difference between a compiler and an interpreter? Explain an application in which an interpreter would be useful.
+7
+Group C
+9.Write brief answers for the following :
+10x2
+(i) Evaluate the following C expression, and explain your answer :
+5 + 2/3 * 5 - 4/3
+(ii) Name two application layer protocols.
+(iii) What are the typical sizes of the main memory and hard disk of a modern desktop computer?
+(iv) Is a two-dimensional array passed as a value or reference argument to a function? Explain your answer by writing a function prototype illustrating this.
+(v) Define a C structure named str that has an integer i, an integer array of size 10 called arr, and a character c as its members.
+(vi) The size of the address bus and data bus of a CPU is 16 bits and 32 bits, respectively. What can be said about the size of its internal registers and address space?
+(vii) What is the full form of SMTP? For what application is it used?
+(viii) Mention two advantages of a DBMS over a file storage of data.
+(ix) What is a foreign key in an RDBMS?
+(x) What is the binary representation of 0.125(decimal)?
+
+Winter 2009
+COMPUTING AND INFORMATICS
+Group A
+1. (a) (i) Convert the binary real number 1101.1010 to a equivalent decimal number.
+2
+(ii) Convert the decimal fraction 0.62 to its equivalent hexadecimal traction.
+2
+(iii) Convert the octal number 364 to its equivalent decimal number.
+2
+(iv) Convert the octal number 536 to its equivalent hexadecimal number.
+2
+(b) What is ternary operator? Is any such operator available in C language? If yes, explain with an example?
+4
+(c) Draw a flow chart of the given problem. Read marks of lour subjects and print grade of the student according to total marks obtained.
+Total Marks	Above |800	|601-800	|401-600	|201-400	|Below 200
+Grade	|A	|B	|C	|D	|F
+8
+2. (a) (i) What is meant by compiling a program?
+3
+(ii) Differentiate between a compiler and a interpreter?
+3
+(b) (i) Simplify the following Boolean expression: X + XY' + Y' + (X + Y')X'Y.
+3
+(ii) Why are NAND and NOR gates called universal gates?
+3
+(c) What is EPROM? How is it different from PROM?
+4
+(d) (i) Perform the following addition:
+1010111 + 1011010
+2
+(ii) Perform the following subtraction:
+1101011- 1010110
+2
+3. (a) (i) What is memory management? Why is it essential in a multi-user environment?
+4
+(ii) How does a 'while' control structure differ from 'do-while' structure?
+3
+(b) With a suitable block diagram, briefly explain the major components and their functions of any conventional computer system.
+7
+(c) (i) What is a protocol ? What is IP protocol?
+3
+(ii) What is Telnet?
+3
+4.(a) (i) What is the difference between application software and system software?
+4
+(ii) What is device driver and explain its function?
+4
+(b) (i) Distinguish between the data and information.
+3
+(ii) What is a key word and what are the restrictions of using them?
+3
+(c) Explain the following: (i) Bridge, and (ii) router.
+3+3
+Group B
+5. (a) (i) List the desirable features of an algorithm.
+3
+(ii) What is a program counter? What information does it store?
+3
+(b)Write a program to add first seven terms in the following series:
+1/1! + 2/2! + 3/3! + 4/4! + .... .
+6
+(c)Write a program to print four digit positive integer number in reverse order.
+6
+(d) What is bitwise operator?
+2
+6. (a) Write a program to display all the prime numbers from 70 to 100.
+6
+(b) Write a program to evaluate the factorial value of a number.
+6
+(c) Write a program to find the length of given string.
+6
+(d) What is void pointer?
+2
+7. (a) Distinguish between the block variable and the local variable.
+3
+(b) What is the task performed by the fseek () function?
+3
+(c) What is the difference between process and processor?
+2
+(d) Write a program to read names of students in a file and copy the data from that file to another file.
+6
+(e) Write a program to reverse a string and check for palindrome.
+6
+8. (a) Write a program to display the ASCII value of a given character.
+6
+(b) Distinguish between break and continue statements in C.
+4
+(c) Write a program to check whether the given number is an Armstrong number.
+6
+(d) How is XCOPY a better command than COPY?
+4
+Group C
+9. Choose the correct answer from the following and write one sentence justification for your choice:
+10x2
+(i) main()
+{
+int x = 4,y,z;
+y = --x;
+z = x--;
+printf("\n%d%d%d",x,y,z);
+}
+Output
+(a) 222
+(b) 233
+(c) 542
+(d) 111
+(ii) main ()
+{
+int x= 1;
+while (x==1)
+{
+x = x- 1;
+printf("%d\n",x);
+}
+}
+output
+(a) 0 (b) 2 (c) 3 (d) 1
+(iii) main()
+{
+int a[10];
+for(i= 1 ; i<= 10; i++)
+{
+scanf("%d", a[i]);
+printf("%d", a[i]);
+}
+}
+output
+(a) 10 20 30 40
+(b) 10 30 40 20
+(c) 20 10 30 40
+(d) 10 20 30 50
+(iv) Hexadecimal value of (172) 10 will be
+(a) AC
+(b) AE
+(c) AB
+(d) BD
+(v) main ()
+{
+int a;
+a-4%5 + 6%5;
+printf("a = %d", a);
+}
+Output
+(a) a = 7
+(b) a = 5
+(c) a = 3
+(d) a = 2
+(vi) # define PRODUCT(X) (X*X)
+main ()
+{
+int i = 3,j;
+j = PRODUCT(i+1);
+printf ("\n%d", j);
+}
+output
+(a) 7
+(b) 3
+(c) 5
+(d) 6
+(vii) DOS identifies the way a disk has been formatted by
+(a) format ID.
+(b) media descriptor.
+(c) number of tracks on the disk.
+(d) number of sectors on the disk.
+(viii) Maximum length of a volume label entry is
+(a) 8 bytes
+(b) 3 bytes
+(c) 11 bytes
+(d) None of the above.
+(ix) A relational operator
+(a) assigns one operand to another.
+(b) yields a Boolean result.
+(c) logically combines two operands.
+(d) None of the above.
+(x) A static variable is one
+(a) which cannot be initialized.
+(b) which is initialized once at the commencement of execution and cannot be changed in run time.
+(c) which retains its value throughout the life of the program.
+(d) which is same as that of automatic variables but declared main.
+
+SUMMER 2009
+COMPUTING AND INFORMATICS
+Group A
+1. Assume that a Cartesian co-ordinate point is represented by a pair of integers (X,Y) indicating its X and Y co-ordinate values.
+(a) Define a class, named Coord that would store X and Y co-ordinate values.
+(4)
+(b) Overload the constructor of the Coord such that if no parameters exist, then the co-ordinate with default parameter (0,0) is created, otherwise a co-ordinate point with specified X and Y values should be created.
+(6)
+(c) Read 10 pairs of integers and create the corresponding ten co-ordinate points.
+(5)
+(d) Arrange the created co-ordinates of part (c) of this question in the increasing order of X coordinates.
+(5)
+2. (a) What is the difference between call by reference and call by the value mechanisms? Illustrate the use of these two by using appropriate C ++ code segments. Which is the mechanism used to pass object overriding?
+(10)
+(b) What do you understand by method overloading? Explain its use by using an example. How is method overloading different from method overriding?
+(10)
+3. A class has 30 students. Each student has a name (up to 30 characters) and roll number (integer). Each student appears in an examination of 100 marks. The names of the students who have scored more than class average need to be printed.
+(a) Draw flow-chart for the problem.
+(6)
+(b) Write C ++ code for solving the problem. the code should be adequately documented.
+(14)
+4. (a) What are the advantages of storing data pertaining to an application in a database management system compared to storing data in a file.
+(7)
+(b) What is a relational database management system?
+(6)
+(c) Why data in an RDBMS needs to be normalized?
+(7)
+Group B
+5. (a) Using a block diagram, show how the CPU, the cache, the memory unit an the secondary storage units of a computer are interconnected.
+(8)
+(b) What do you understand by cache memory? Why is cache memory needed in a computer?
+(6)
+(c) Write the truth table of a 1-bit adder and draw the logic gate design of the 1-bit adder.
+(6)
+6. (a) What is the role of an operating system in a computer?
+(6)
+(b) What do you understand by booting of a computer? What are the main activities that are carried out by a computer during booting?
+(7)
+(c) What is a flip-flop? Draw the logic gate representation of a flip-flop. How is a flip-flop useful?
+(7)
+7. (a) What do you understand by file management? Explain the organization of a file system using a suitable schematic diagram.
+(8)
+(b) Convert the following two hexadecimal numbers into binary and decimal numbers:
+(i) 9F, and (ii) E7.
+(6)
+(c) Perform the following hexadecimal operations:
+(i) 5F+AB, and (ii) CD+BE.
+(6)
+8. (a) Explain how data are stored and accessed from a hard disk.
+(7)
+(b) What is BIOS in DOS? What is its role?
+(7)
+(c) What are the important ways in which Windows operating system in different from DOS?
+(6)
+Group C
+9. Choose the correct answer for the following and write one sentence justification for your
+choice:
+(10x2)
+(i) The packing of data and function into a single unit in a program is known as
+(a) polymorphism
+(b) abstraction
+(c) encapsulation
+(d) inheritance
+(ii) The mechanism of defining the same method with multiple types of parameters is known as
+(a) method overriding
+(b) method overloading
+(c) virtual method
+(d) method aggregation
+(iii) The type of members of a class are by default
+(a) private
+(b) public
+(c) protected
+(d) None of the above
+(iv) For the following C program, how many times is the for loop executed?
+main( ) {
+int i;
+for (i = 0; i <10)
+printf ("loop count = %d \n",i);
+}
+(a) 9
+(b) 10
+(c) 11
+(d) infinite number of times
+(v) In the following C program segment, what would be the value of x after the execution of the program segment?
+x = 15; y = 10;
+if (x > y)
+if (y > 0) x = x* -1;
+else x = 2* x;
+(a) 5
+(b) -5
+(c) 10
+(d) -10
+(vi) What are the typical capacities of (i) main memory, and (ii) hard disk of a modern PC?
+(a) 1 GB and 150 GB
+(b) 1 MB and 20 Mb
+(c) 15 Kb and 200 Mb
+(d) 20 Gb and 800 Gb
+(vii) What would be the output of the following program:
+main ( ) {
+printf ('Expression values = %d %d\n"),
+(5/2*2, 6/2*2),
+}
+(a) 1,1
+(b) 6,6
+(c) 5,6
+(d) 4,6
+(viii) Consider the following C program. How many times will the print statement be
+executed?
+for (i = 0; i < 99; i++)
+for (j = I; j < 100; j++)
+printf ('Institution of Engineers\n");
+(a) 9900
+(b) 4950
+(c) 5049
+(d) 5051
+(ix) What is the binary representation of 0.125?
+(a) 0.11
+(b) 0.01
+(c) 0.001
+(d) 0.011
+(x) The scope of a variable refers to the
+(a) range of values that the variable may assume.
+(b) portion of code in which the variable may be meaningful.
+(c) set of variables to which the given variable can be meaningfully assigned.
+(d) set of variables from which the given variable can be meaningfully assume.
