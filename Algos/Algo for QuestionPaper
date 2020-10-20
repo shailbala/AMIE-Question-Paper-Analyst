@@ -1,0 +1,78 @@
+Algo for QuestionPaper.analyseQuestions(data):
+1 Store indices of Group A, Group B, Group C and next Qpaper in 4 different variables iA, iB, iC, iN.
+	Questions 1-4 always reside between iA and iB, 5-8 in iB and iC and 9 onwards in iC and iN.
+2 Questions start with 1. Read the first 1 to find out the question pattern,
+	that is, in what way the question is represented.
+	1., 1) etc.
+3 Save this pattern(dot, bracket etc.) in p. This will be used to find out the scope of one question.
+4 set index = iN
+5## Group A
+6 set q=4
+7 index = last occurrence of '\n'+str(q)+p between iA and min(iB, index).
+8 Call self.analyseQuestion(data[index:iB])
+9 q = q-1
+10 if q>0 Go back to step 7
+11## Group B; data = data[iB:]
+12 set q=8, index = iN
+13 index = last occurrence of '\n'+str(q)+p between iB and min(iC, index).
+14 Call self.analyseQuestion(data[index:iB])
+15 q = q-1
+16 if q>4 Go back to step 7
+17## Group C;
+########################ToDo########################
+18 Search for 9+p, store it in a list
+19 Search for 10+p, store it in the list
+20 Search for 11+p, store it in the list
+Search for 12+p, store it in the list
+21 ###We have assumed a maximum of 12 questions, now we have the starting indices of all of them in alist
+22 ## Iterate through them to extract only one question, between iC and iN
+
+
+
+Algo for QuestionPaper.analyseQuestion(q, n):
+## q=question string, n=Qno.
+set mFlag=True, if it is false, we have found marks for each question, no need to search further
+set romanList = ['i', 'ii', 'iii', 'iv', 'v', 'vi', 'vii', 'viii', 'ix', 'x', 'xi', 'xii', 'xiii', 'xiv', 'xv', 'xvi', 'xvii', 'xviii', 'xix', 'xx']
+RomanList = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII', 'XVIII', 'XIX', 'XX']
+aList = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't']
+AList = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T']
+
+
+## store q in qData
+1 Remove n and question pattern p from question data q. Now we have only question data and marks
+2 Search for the first occurrence of any of (a), a), a., (A), A), A., (i), i), i., (I), I), I., I, (1), I., 1., 1)
+	RegeX=> ([\(]?[aAiI1][\)\s\.])
+	
+3 If Step 2 returns nothing, then there is no sub-question, this is the case of LAQ.
+4 Go to the end and find the marks. Special RegeX must be used for different variations of marks.
+5 ########################ToDo, RegeX for marks########################
+6 Make new instance of Question.
+7 End.
+
+8 Save the pattern in p. (If (a) is matched, p={'a': '()'}, if i. is matched, p={'i': '.'}
+
+## There are instances where the instruction is given in the question itself and then there are sub-parts.
+9 Using RegeX, find the last occurrence that matches the pattern p. Store last occurrence in last.
+10 Using this, construct the first occurrence.
+11 Using str.find(), find the first occurrence, store it in index. If index is not around 0 (+-3), the question contains instructions and then sub-parts. This instruction should be saved for all sub-questions.
+instr=''
+12 Store instr=q[:index]
+13 Remove the common instruction part from q; q = q[index:]
+	Now there are only sub-parts left.
+14 index2 = q.find(last)
+15 For safety, check if there are more occurrences of last; index2 = q.find(last, index2+1)
+16 This will tell us the last sub-question. From here we can follow Step 3 onwards of the previous algo to extract each individual sub-part.
+
+But there are cases when the sub question has references to previous question, or depends on previous question. In such cases, we should treat all the sub-parts under one question.
+########################ToDo########################
+## Isolate these questions on the basis on words like 'above', 'below', 'previous'
+
+
+
+----------------------------------------------------------
+Serial No. Separator Space Instruction Symbol(:,-,?,.:-)?\n
+Ordered List (can be nested, we are ignoring the nesting)
+We need to recognize the ordered list only.
+Step 1 & 2
+Treat each list entry as one question
+

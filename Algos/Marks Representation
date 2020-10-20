@@ -1,0 +1,53 @@
+Marks are indicated in the following variations:
+Question Statement 2
+Question Statement [2]
+Question Statement {2}
+Question Statement (2)
+Question Statement
+2
+Question Statement
+(2)
+Question Statement
+[2]
+Question Statement 2 X 3
+Question Statement 2 x 3
+Question Statement (2 x 3)
+Question Statement
+2 x 3
+Question Statement 2x3
+Question Statement (2x3)
+Question Statement 2 x3
+Question Statement 2x 3
+
+Regex for all:
+\w[\s\n][\[\{\(]?(\d+[\s?xX\s?\d+]?)[\]\}\)]?\n
+
+Explanation:
+\w=>Any alphanumeric character
+[\s\n]=>space or newline character
+[\[\{\(]?=>Optional [,{,( character
+(\d+[\s?xX\s?\d+]?) Pick what matches inside ()
+	\d+=>One or more digits (as many continuous as can be found)
+	[\s?xX\s?\d+]?=>Optional character may contain one space, x, X, space and one or more digits
+[\]\}\)]?=>Optional ],},) character
+\n=> Ending with a newline character
+
+
+More types, regex pending:
+Question Statement 2+3
+Question Statement
+2+3
+Question Statement (2+3)
+Question Statement
+(2+3)
+Question Statement (8M)
+Question Statement (S 2016 20M)
+(4x2 M)
+7+7+6
+3 + 3 + 4
+(2 + 6)
+2 + 6
+2+6
+(12 M)
+5*4
+10*2
