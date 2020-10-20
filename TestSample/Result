@@ -1,0 +1,42 @@
+**********
+Comparison of1
+
+Warning (from warnings module):
+  File "/usr/lib/python2.7/difflib.py", line 433
+    a[besti-1] == b[bestj-1]:
+UnicodeWarning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+
+Warning (from warnings module):
+  File "/usr/lib/python2.7/difflib.py", line 437
+    a[besti+bestsize] == b[bestj+bestsize]:
+UnicodeWarning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+0.94707478761
+
+**********
+Comparison of2
+0.95571955231
+
+**********
+Comparison of3
+0.891038130282
+
+**********
+Comparison of4
+0.971588227821
+
+**********
+Comparison of5
+0.950938139452
+
+**********
+Comparison of6
+0.909072702246
+
+**********
+Comparison of7
+
+Warning (from warnings module):
+  File "/usr/lib/python2.7/difflib.py", line 416
+    for j in b2j.get(a[i], nothing):
+UnicodeWarning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+0.920005630975
