@@ -1,0 +1,32 @@
+import re
+
+def marks(line):
+	'''
+	Returns the number of questions and
+	marks of each question as a list of len 2
+	5x4 => [5, 4] : 5 questions of 4 marks each
+	5M => [1, 5] : 
+	'''
+	if not(type(marks) == str) or marks=='':
+		try:
+			raise ValueError('invalid line for marks', line)
+		except ValueError as err:
+			print err.args
+	else:
+		## remove brackets and trailing spaces, if present
+		z = re.match(r'[\(\[\{]\s*(.+)\s*[\)\]\}]', line)
+		if z:
+			line = z.groups(1)
+		## for (S 2016 20M ), without brackets S 2016 20M
+		z = re.match(r'.+\d\{4}\s(.+)^', line)
+		if z:
+			line = z.groups(1)
+		## Search for +
+		if line.find('+') > -1:
+			line = line.split('+')
+		## there may be trailing whitespaces, remove them
+		if type(line) == list:
+			for i in range(len(line)):
+				## remove trailing whitespaces using some inbuilt str function
+				## convert each item into int
+				#######################incomplete
